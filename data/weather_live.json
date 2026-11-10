@@ -1,0 +1,171 @@
+{
+  "updated_at": "2026-11-10 13:31:39 UTC",
+  "total_districts": 15,
+  "districts": [
+    {
+      "district": "Dhaka",
+      "division": "Dhaka",
+      "temp_c": 28.0,
+      "humidity_pct": 60,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 0.7,
+      "today_max_c": 31.2,
+      "today_min_c": 22.7,
+      "today_rain_sum_mm": 1.1
+    },
+    {
+      "district": "Chattogram",
+      "division": "Chattogram",
+      "temp_c": 27.0,
+      "humidity_pct": 69,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 8.2,
+      "today_max_c": 30.6,
+      "today_min_c": 23.2,
+      "today_rain_sum_mm": 0.8
+    },
+    {
+      "district": "Rajshahi",
+      "division": "Rajshahi",
+      "temp_c": 25.0,
+      "humidity_pct": 80,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 1.2,
+      "today_max_c": 31.0,
+      "today_min_c": 22.1,
+      "today_rain_sum_mm": 1.1
+    },
+    {
+      "district": "Bogura",
+      "division": "Rajshahi",
+      "temp_c": 24.1,
+      "humidity_pct": 82,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 3.8,
+      "today_max_c": 29.8,
+      "today_min_c": 21.5,
+      "today_rain_sum_mm": 0.5
+    },
+    {
+      "district": "Naogaon",
+      "division": "Rajshahi",
+      "temp_c": 24.6,
+      "humidity_pct": 81,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 0.7,
+      "today_max_c": 29.7,
+      "today_min_c": 21.7,
+      "today_rain_sum_mm": 0.5
+    },
+    {
+      "district": "Sylhet",
+      "division": "Sylhet",
+      "temp_c": 24.4,
+      "humidity_pct": 83,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 6.4,
+      "today_max_c": 29.5,
+      "today_min_c": 22.0,
+      "today_rain_sum_mm": 0.6
+    },
+    {
+      "district": "Sunamganj",
+      "division": "Sylhet",
+      "temp_c": 25.6,
+      "humidity_pct": 77,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 6.6,
+      "today_max_c": 31.2,
+      "today_min_c": 22.2,
+      "today_rain_sum_mm": 0.1
+    },
+    {
+      "district": "Khulna",
+      "division": "Khulna",
+      "temp_c": 25.2,
+      "humidity_pct": 73,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 7.6,
+      "today_max_c": 30.8,
+      "today_min_c": 21.6,
+      "today_rain_sum_mm": 1.0
+    },
+    {
+      "district": "Barishal",
+      "division": "Barishal",
+      "temp_c": 26.2,
+      "humidity_pct": 76,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 8.2,
+      "today_max_c": 31.0,
+      "today_min_c": 22.9,
+      "today_rain_sum_mm": 0.1
+    },
+    {
+      "district": "Rangpur",
+      "division": "Rangpur",
+      "temp_c": 24.1,
+      "humidity_pct": 81,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 4.2,
+      "today_max_c": 29.8,
+      "today_min_c": 21.2,
+      "today_rain_sum_mm": 0.1
+    },
+    {
+      "district": "Kurigram",
+      "division": "Rangpur",
+      "temp_c": 23.9,
+      "humidity_pct": 84,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 5.1,
+      "today_max_c": 29.9,
+      "today_min_c": 20.7,
+      "today_rain_sum_mm": 0.3
+    },
+    {
+      "district": "Mymensingh",
+      "division": "Mymensingh",
+      "temp_c": 25.1,
+      "humidity_pct": 77,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 1.5,
+      "today_max_c": 29.8,
+      "today_min_c": 21.2,
+      "today_rain_sum_mm": 1.0
+    },
+    {
+      "district": "Cumilla",
+      "division": "Chattogram",
+      "temp_c": 25.8,
+      "humidity_pct": 67,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 9.2,
+      "today_max_c": 30.7,
+      "today_min_c": 21.3,
+      "today_rain_sum_mm": 0.0
+    },
+    {
+      "district": "Feni",
+      "division": "Chattogram",
+      "temp_c": 25.6,
+      "humidity_pct": 76,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 8.0,
+      "today_max_c": 30.9,
+      "today_min_c": 22.5,
+      "today_rain_sum_mm": 0.0
+    },
+    {
+      "district": "Cox's Bazar",
+      "division": "Chattogram",
+      "temp_c": 24.6,
+      "humidity_pct": 78,
+      "current_rain_mm": 0.0,
+      "wind_kmh": 10.2,
+      "today_max_c": 28.1,
+      "today_min_c": 23.3,
+      "today_rain_sum_mm": 1.8
+    }
+  ]
+}

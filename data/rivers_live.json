@@ -1,0 +1,447 @@
+{
+  "updated_at": "2026-11-10 13:31:39 UTC",
+  "source": "FFWC / BWDB",
+  "total_stations": 44,
+  "stations": [
+    {
+      "river": "Jamuna",
+      "station": "Aricha",
+      "basin": "Brahmaputra",
+      "district": "Manikganj",
+      "danger_level_m": 8.95,
+      "water_level_m": 4.18,
+      "margin_m": 4.77,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Jamuneswari",
+      "station": "Badarganj",
+      "basin": "Brahmaputra",
+      "district": "Rangpur",
+      "danger_level_m": 31.7,
+      "water_level_m": 27.35,
+      "margin_m": 4.35,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Karatoa-Atrai-GGH",
+      "station": "Baghabari",
+      "basin": "Brahmaputra",
+      "district": "Sirajganj",
+      "danger_level_m": 9.95,
+      "water_level_m": 5.31,
+      "margin_m": 4.64,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Jamuna",
+      "station": "Bahadurabad",
+      "basin": "Brahmaputra",
+      "district": "Jamalpur",
+      "danger_level_m": 19.05,
+      "water_level_m": 14.05,
+      "margin_m": 5.0,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Nil Jinjiram",
+      "station": "Boalmari",
+      "basin": "Brahmaputra",
+      "district": "Kurigram",
+      "danger_level_m": 23.9,
+      "water_level_m": 21.58,
+      "margin_m": 2.32,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Karatoa",
+      "station": "Bogra",
+      "basin": "Brahmaputra",
+      "district": "Bogura",
+      "danger_level_m": 15.85,
+      "water_level_m": 10.5,
+      "margin_m": 5.35,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Brahmaputra",
+      "station": "Chilmari",
+      "basin": "Brahmaputra",
+      "district": "Kurigram",
+      "danger_level_m": 23.25,
+      "water_level_m": 18.69,
+      "margin_m": 4.56,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Teesta",
+      "station": "Dalia",
+      "basin": "Brahmaputra",
+      "district": "Nilphamari",
+      "danger_level_m": 52.15,
+      "water_level_m": 50.77,
+      "margin_m": 1.38,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Balu",
+      "station": "Demra",
+      "basin": "Brahmaputra",
+      "district": "Dhaka",
+      "danger_level_m": 5.3,
+      "water_level_m": 1.33,
+      "margin_m": 3.97,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Buriganga",
+      "station": "Dhaka",
+      "basin": "Brahmaputra",
+      "district": "Dhaka",
+      "danger_level_m": 5.55,
+      "water_level_m": 1.4,
+      "margin_m": 4.15,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Dhaleswari",
+      "station": "Elasinghat",
+      "basin": "Brahmaputra",
+      "district": "Tangail",
+      "danger_level_m": 10.95,
+      "water_level_m": 4.83,
+      "margin_m": 6.12,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Jamuna",
+      "station": "Fulchari",
+      "basin": "Brahmaputra",
+      "district": "Gaibandha",
+      "danger_level_m": 19.35,
+      "water_level_m": 13.89,
+      "margin_m": 5.46,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Ghagot",
+      "station": "Gaibandha",
+      "basin": "Brahmaputra",
+      "district": "Gaibandha",
+      "danger_level_m": 21.25,
+      "water_level_m": 16.14,
+      "margin_m": 5.11,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Teesta",
+      "station": "Haripur",
+      "basin": "Brahmaputra",
+      "district": "Gaibandha",
+      "danger_level_m": 22.3,
+      "water_level_m": 18.85,
+      "margin_m": 3.45,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Jamuna",
+      "station": "Jagannathganj",
+      "basin": "Brahmaputra",
+      "district": "Jamalpur",
+      "danger_level_m": 13.55,
+      "water_level_m": 8.54,
+      "margin_m": 5.01,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Old Brahmaputra",
+      "station": "Jamalpur",
+      "basin": "Brahmaputra",
+      "district": "Jamalpur",
+      "danger_level_m": 16.55,
+      "water_level_m": 8.44,
+      "margin_m": 8.11,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Turag",
+      "station": "Kaliakoir",
+      "basin": "Brahmaputra",
+      "district": "Gazipur",
+      "danger_level_m": 7.95,
+      "water_level_m": 3.67,
+      "margin_m": 4.28,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Brahmaputra",
+      "station": "Kamarjani",
+      "basin": "Brahmaputra",
+      "district": "Gaibandha",
+      "danger_level_m": 21.7,
+      "water_level_m": 17.2,
+      "margin_m": 4.5,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Dharla",
+      "station": "Kurigram",
+      "basin": "Brahmaputra",
+      "district": "Kurigram",
+      "danger_level_m": 26.05,
+      "water_level_m": 21.92,
+      "margin_m": 4.13,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Teesta",
+      "station": "Kaunia",
+      "basin": "Brahmaputra",
+      "district": "Rangpur",
+      "danger_level_m": 29.3,
+      "water_level_m": 27.1,
+      "margin_m": 2.2,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Bangali",
+      "station": "Shimulbari",
+      "basin": "Brahmaputra",
+      "district": "Bogura",
+      "danger_level_m": 17.75,
+      "water_level_m": 11.58,
+      "margin_m": 6.17,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Jamuna",
+      "station": "Sariakandi",
+      "basin": "Brahmaputra",
+      "district": "Bogura",
+      "danger_level_m": 16.25,
+      "water_level_m": 10.41,
+      "margin_m": 5.84,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Jamuna",
+      "station": "Serajganj",
+      "basin": "Brahmaputra",
+      "district": "Sirajganj",
+      "danger_level_m": 12.9,
+      "water_level_m": 7.41,
+      "margin_m": 5.49,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Jamuna",
+      "station": "Porabari",
+      "basin": "Brahmaputra",
+      "district": "Tangail",
+      "danger_level_m": 11.8,
+      "water_level_m": 6.74,
+      "margin_m": 5.06,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Upper Karatoa",
+      "station": "Panchagarh",
+      "basin": "Brahmaputra",
+      "district": "Panchagarh",
+      "danger_level_m": 70.3,
+      "water_level_m": 64.09,
+      "margin_m": 6.21,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Atrai",
+      "station": "Mohadebpur",
+      "basin": "Ganges",
+      "district": "Naogaon",
+      "danger_level_m": 18.15,
+      "water_level_m": 12.43,
+      "margin_m": 5.72,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Atrai",
+      "station": "Singra",
+      "basin": "Brahmaputra",
+      "district": "Natore",
+      "danger_level_m": 12.2,
+      "water_level_m": 8.39,
+      "margin_m": 3.81,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Old Brahmaputra",
+      "station": "Mymensingh",
+      "basin": "Brahmaputra",
+      "district": "Mymensingh",
+      "danger_level_m": 12.05,
+      "water_level_m": 2.36,
+      "margin_m": 9.69,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Padma",
+      "station": "Goalundo",
+      "basin": "Ganges",
+      "district": "Rajbari",
+      "danger_level_m": 8.2,
+      "water_level_m": 4.15,
+      "margin_m": 4.05,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Padma",
+      "station": "Bhagyakul",
+      "basin": "Ganges",
+      "district": "Munshiganj",
+      "danger_level_m": 5.85,
+      "water_level_m": 2.8,
+      "margin_m": 3.05,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Padma",
+      "station": "Mawa",
+      "basin": "Ganges",
+      "district": "Munshiganj",
+      "danger_level_m": 5.65,
+      "water_level_m": 2.65,
+      "margin_m": 3.0,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Ganges",
+      "station": "Pankha",
+      "basin": "Ganges",
+      "district": "Chapainawabganj",
+      "danger_level_m": 22.05,
+      "water_level_m": 14.1,
+      "margin_m": 7.95,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Ganges",
+      "station": "Rajshahi",
+      "basin": "Ganges",
+      "district": "Rajshahi",
+      "danger_level_m": 18.05,
+      "water_level_m": 10.95,
+      "margin_m": 7.1,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Ganges",
+      "station": "Hardinge Bridge",
+      "basin": "Ganges",
+      "district": "Pabna",
+      "danger_level_m": 13.8,
+      "water_level_m": 8.4,
+      "margin_m": 5.4,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Surma",
+      "station": "Kanaighat",
+      "basin": "Meghna",
+      "district": "Sylhet",
+      "danger_level_m": 12.75,
+      "water_level_m": 7.85,
+      "margin_m": 4.9,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Surma",
+      "station": "Sylhet",
+      "basin": "Meghna",
+      "district": "Sylhet",
+      "danger_level_m": 10.8,
+      "water_level_m": 5.4,
+      "margin_m": 5.4,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Surma",
+      "station": "Sunamganj",
+      "basin": "Meghna",
+      "district": "Sunamganj",
+      "danger_level_m": 7.8,
+      "water_level_m": 4.9,
+      "margin_m": 2.9,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Kushiyara",
+      "station": "Amalshid",
+      "basin": "Meghna",
+      "district": "Sylhet",
+      "danger_level_m": 15.4,
+      "water_level_m": 9.6,
+      "margin_m": 5.8,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Kushiyara",
+      "station": "Sheola",
+      "basin": "Meghna",
+      "district": "Beanibazar",
+      "danger_level_m": 13.05,
+      "water_level_m": 8.15,
+      "margin_m": 4.9,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Manu",
+      "station": "Moulvibazar",
+      "basin": "Meghna",
+      "district": "Moulvibazar",
+      "danger_level_m": 11.3,
+      "water_level_m": 6.8,
+      "margin_m": 4.5,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Khowai",
+      "station": "Habiganj",
+      "basin": "Meghna",
+      "district": "Habiganj",
+      "danger_level_m": 9.05,
+      "water_level_m": 5.9,
+      "margin_m": 3.15,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Gumti",
+      "station": "Comilla",
+      "basin": "Meghna",
+      "district": "Cumilla",
+      "danger_level_m": 11.3,
+      "water_level_m": 7.1,
+      "margin_m": 4.2,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Muhuri",
+      "station": "Parshuram",
+      "basin": "South Eastern Hill",
+      "district": "Feni",
+      "danger_level_m": 12.55,
+      "water_level_m": 9.2,
+      "margin_m": 3.35,
+      "status": "NORMAL"
+    },
+    {
+      "river": "Halda",
+      "station": "Narayanhat",
+      "basin": "South Eastern Hill",
+      "district": "Chattogram",
+      "danger_level_m": 14.8,
+      "water_level_m": 10.4,
+      "margin_m": 4.4,
+      "status": "NORMAL"
+    }
+  ]
+}

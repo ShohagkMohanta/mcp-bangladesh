@@ -1,0 +1,289 @@
+{
+  "updated_at": "2026-11-10 13:32:10 UTC",
+  "source": "Bangladesh Power Development Board (BPDB)",
+  "sampled_plants_count": 40,
+  "sampled_day_peak_mw": 7209.0,
+  "sampled_evening_peak_mw": 5675.0,
+  "plants": [
+    {
+      "serial": 1,
+      "plant_name": "Ghorashal Repowered CCPP Unit 3 (GT)",
+      "installed_or_derated_mw": 260.0,
+      "day_peak_mw": 260.0,
+      "evening_peak_mw": 0.0
+    },
+    {
+      "serial": 2,
+      "plant_name": "Ghorasal Repowered CCPP UNIT-4",
+      "installed_or_derated_mw": 210.0,
+      "day_peak_mw": 180.0,
+      "evening_peak_mw": 230.0
+    },
+    {
+      "serial": 3,
+      "plant_name": "b) Ghorasal TPP Unit 5",
+      "installed_or_derated_mw": 210.0,
+      "day_peak_mw": 190.0,
+      "evening_peak_mw": 190.0
+    },
+    {
+      "serial": 4,
+      "plant_name": "Ghorashal 365 MW CCPP Unit -7",
+      "installed_or_derated_mw": 365.0,
+      "day_peak_mw": 365.0,
+      "evening_peak_mw": 260.0
+    },
+    {
+      "serial": 5,
+      "plant_name": "Ghorashal 108 MW PP (Regent)",
+      "installed_or_derated_mw": 108.0,
+      "day_peak_mw": 99.0,
+      "evening_peak_mw": 100.0
+    },
+    {
+      "serial": 6,
+      "plant_name": "Tongi 80 MW GT PP",
+      "installed_or_derated_mw": 105.0,
+      "day_peak_mw": 105.0,
+      "evening_peak_mw": 0.0
+    },
+    {
+      "serial": 7,
+      "plant_name": "Horipur GT PP",
+      "installed_or_derated_mw": 0.0,
+      "day_peak_mw": 0.0,
+      "evening_peak_mw": 0.0
+    },
+    {
+      "serial": 8,
+      "plant_name": "Meghnaghat 450 MW CCPP (MPL)",
+      "installed_or_derated_mw": 450.0,
+      "day_peak_mw": 450.0,
+      "evening_peak_mw": 0.0
+    },
+    {
+      "serial": 9,
+      "plant_name": "210 MW Shiddirganj TPP",
+      "installed_or_derated_mw": 210.0,
+      "day_peak_mw": 115.0,
+      "evening_peak_mw": 0.0
+    },
+    {
+      "serial": 10,
+      "plant_name": "Horipur 412 MW CCPP",
+      "installed_or_derated_mw": 412.0,
+      "day_peak_mw": 412.0,
+      "evening_peak_mw": 412.0
+    },
+    {
+      "serial": 11,
+      "plant_name": "Siddhirgonj 2*120 MW  GTPP",
+      "installed_or_derated_mw": 210.0,
+      "day_peak_mw": 210.0,
+      "evening_peak_mw": 210.0
+    },
+    {
+      "serial": 12,
+      "plant_name": "Siddhirgonj CCPP 335 MW",
+      "installed_or_derated_mw": 335.0,
+      "day_peak_mw": 335.0,
+      "evening_peak_mw": 335.0
+    },
+    {
+      "serial": 13,
+      "plant_name": "Meghnaghat 335 MWCCPP (Summit)",
+      "installed_or_derated_mw": 335.0,
+      "day_peak_mw": 335.0,
+      "evening_peak_mw": 335.0
+    },
+    {
+      "serial": 14,
+      "plant_name": "Madangonj-55 MW PP (Summit)",
+      "installed_or_derated_mw": 55.0,
+      "day_peak_mw": 55.0,
+      "evening_peak_mw": 55.0
+    },
+    {
+      "serial": 15,
+      "plant_name": "Gagnagar102 MW PP (Digital Power)",
+      "installed_or_derated_mw": 102.0,
+      "day_peak_mw": 102.0,
+      "evening_peak_mw": 102.0
+    },
+    {
+      "serial": 16,
+      "plant_name": "Narshingdi 22 MW PP(Doreen)",
+      "installed_or_derated_mw": 8.0,
+      "day_peak_mw": 0.0,
+      "evening_peak_mw": 0.0
+    },
+    {
+      "serial": 17,
+      "plant_name": "Summit Power ( Ashulia)",
+      "installed_or_derated_mw": 0.0,
+      "day_peak_mw": 45.0,
+      "evening_peak_mw": 45.0
+    },
+    {
+      "serial": 18,
+      "plant_name": "Summit Power Madhabdi",
+      "installed_or_derated_mw": 35.0,
+      "day_peak_mw": 35.0,
+      "evening_peak_mw": 22.0
+    },
+    {
+      "serial": 19,
+      "plant_name": "Maona 33 MW PP(Summit)",
+      "installed_or_derated_mw": 0.0,
+      "day_peak_mw": 0.0,
+      "evening_peak_mw": 0.0
+    },
+    {
+      "serial": 20,
+      "plant_name": "Rupgonj 33 MW PP(Summit)",
+      "installed_or_derated_mw": 0.0,
+      "day_peak_mw": 0.0,
+      "evening_peak_mw": 0.0
+    },
+    {
+      "serial": 21,
+      "plant_name": "Gazipur 52 MW PP",
+      "installed_or_derated_mw": 52.0,
+      "day_peak_mw": 52.0,
+      "evening_peak_mw": 52.0
+    },
+    {
+      "serial": 22,
+      "plant_name": "Gazipur 100 MW PP",
+      "installed_or_derated_mw": 105.0,
+      "day_peak_mw": 105.0,
+      "evening_peak_mw": 88.0
+    },
+    {
+      "serial": 23,
+      "plant_name": "Kodda 150 MW Power Plant",
+      "installed_or_derated_mw": 149.0,
+      "day_peak_mw": 149.0,
+      "evening_peak_mw": 133.0
+    },
+    {
+      "serial": 24,
+      "plant_name": "Kamalaghat 54 MW PP (Banco Energy)",
+      "installed_or_derated_mw": 54.0,
+      "day_peak_mw": 54.0,
+      "evening_peak_mw": 54.0
+    },
+    {
+      "serial": 25,
+      "plant_name": "Kodda 300 MW PP Unit-2 (Summit)",
+      "installed_or_derated_mw": 300.0,
+      "day_peak_mw": 300.0,
+      "evening_peak_mw": 300.0
+    },
+    {
+      "serial": 26,
+      "plant_name": "Kodda 149 MW PP Unit-1(Summit)",
+      "installed_or_derated_mw": 149.0,
+      "day_peak_mw": 149.0,
+      "evening_peak_mw": 149.0
+    },
+    {
+      "serial": 27,
+      "plant_name": "Nababgonj 55 MW PP (Southern) Power",
+      "installed_or_derated_mw": 55.0,
+      "day_peak_mw": 55.0,
+      "evening_peak_mw": 55.0
+    },
+    {
+      "serial": 28,
+      "plant_name": "Manikgonj 55 MW PP (Northen)",
+      "installed_or_derated_mw": 55.0,
+      "day_peak_mw": 55.0,
+      "evening_peak_mw": 55.0
+    },
+    {
+      "serial": 29,
+      "plant_name": "Meghnaghat 104 MW PP (OPSL)",
+      "installed_or_derated_mw": 104.0,
+      "day_peak_mw": 104.0,
+      "evening_peak_mw": 104.0
+    },
+    {
+      "serial": 30,
+      "plant_name": "Manikgonj 162MW PP (MPGL)",
+      "installed_or_derated_mw": 162.0,
+      "day_peak_mw": 162.0,
+      "evening_peak_mw": 162.0
+    },
+    {
+      "serial": 31,
+      "plant_name": "Manikgonj 35 Mw Solar PP (Inspect)",
+      "installed_or_derated_mw": 35.0,
+      "day_peak_mw": 35.0,
+      "evening_peak_mw": 25.0
+    },
+    {
+      "serial": 32,
+      "plant_name": "Kanchan Purbachal Power Generation",
+      "installed_or_derated_mw": 55.0,
+      "day_peak_mw": 55.0,
+      "evening_peak_mw": 55.0
+    },
+    {
+      "serial": 33,
+      "plant_name": "Keranigonj 100 MW PP(Powerpac)",
+      "installed_or_derated_mw": 0.0,
+      "day_peak_mw": 0.0,
+      "evening_peak_mw": 0.0
+    },
+    {
+      "serial": 34,
+      "plant_name": "Unique Meghnaghat 584MW CCPP",
+      "installed_or_derated_mw": 0.0,
+      "day_peak_mw": 584.0,
+      "evening_peak_mw": 584.0
+    },
+    {
+      "serial": 35,
+      "plant_name": "Meghnaghat 583 MW CCPP (Summit)",
+      "installed_or_derated_mw": 0.0,
+      "day_peak_mw": 583.0,
+      "evening_peak_mw": 583.0
+    },
+    {
+      "serial": 36,
+      "plant_name": "Meghnaghat (Jera) 718 MW CCPP",
+      "installed_or_derated_mw": 0.0,
+      "day_peak_mw": 718.0,
+      "evening_peak_mw": 718.0
+    },
+    {
+      "serial": 37,
+      "plant_name": "Sreepur150 MW",
+      "installed_or_derated_mw": 150.0,
+      "day_peak_mw": 160.0,
+      "evening_peak_mw": 160.0
+    },
+    {
+      "serial": 1,
+      "plant_name": "Karnaphuli Hydro PP Unit-1,2,3,4,5",
+      "installed_or_derated_mw": 230.0,
+      "day_peak_mw": 230.0,
+      "evening_peak_mw": 96.0
+    },
+    {
+      "serial": 2,
+      "plant_name": "Chattogram Tpp",
+      "installed_or_derated_mw": 420.0,
+      "day_peak_mw": 360.0,
+      "evening_peak_mw": 0.0
+    },
+    {
+      "serial": 3,
+      "plant_name": "Kaptai 7 MW Solar PP",
+      "installed_or_derated_mw": 0.0,
+      "day_peak_mw": 6.0,
+      "evening_peak_mw": 6.0
+    }
+  ]
+}

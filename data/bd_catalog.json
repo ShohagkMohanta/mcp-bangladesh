@@ -1,0 +1,559 @@
+{
+  "updated_at": "2026-11-10 13:31:51 UTC",
+  "total_divisions": 8,
+  "total_districts": 64,
+  "divisions": {
+    "Dhaka": [
+      "Dhaka",
+      "Faridpur",
+      "Gazipur",
+      "Gopalganj",
+      "Kishoreganj",
+      "Madaripur",
+      "Manikganj",
+      "Munshiganj",
+      "Narayanganj",
+      "Narsingdi",
+      "Rajbari",
+      "Shariatpur",
+      "Tangail"
+    ],
+    "Chattogram": [
+      "Bandarban",
+      "Brahmanbaria",
+      "Chandpur",
+      "Chattogram",
+      "Cumilla",
+      "Cox's Bazar",
+      "Feni",
+      "Khagrachhari",
+      "Lakshmipur",
+      "Noakhali",
+      "Rangamati"
+    ],
+    "Rajshahi": [
+      "Bogura",
+      "Chapainawabganj",
+      "Joypurhat",
+      "Naogaon",
+      "Natore",
+      "Pabna",
+      "Rajshahi",
+      "Sirajganj"
+    ],
+    "Khulna": [
+      "Bagerhat",
+      "Chuadanga",
+      "Jashore",
+      "Jhenaidah",
+      "Khulna",
+      "Kushtia",
+      "Magura",
+      "Meherpur",
+      "Narail",
+      "Satkhira"
+    ],
+    "Barishal": [
+      "Barguna",
+      "Barishal",
+      "Bhola",
+      "Jhalokati",
+      "Patuakhali",
+      "Pirojpur"
+    ],
+    "Sylhet": [
+      "Habiganj",
+      "Moulvibazar",
+      "Sunamganj",
+      "Sylhet"
+    ],
+    "Rangpur": [
+      "Dinajpur",
+      "Gaibandha",
+      "Kurigram",
+      "Lalmonirhat",
+      "Nilphamari",
+      "Panchagarh",
+      "Rangpur",
+      "Thakurgaon"
+    ],
+    "Mymensingh": [
+      "Jamalpur",
+      "Mymensingh",
+      "Netrokona",
+      "Sherpur"
+    ]
+  },
+  "districts": [
+    {
+      "district": "Dhaka",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Faridpur",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Gazipur",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Gopalganj",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Kishoreganj",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Madaripur",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Manikganj",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Munshiganj",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Narayanganj",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Narsingdi",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Rajbari",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Shariatpur",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Tangail",
+      "division": "Dhaka"
+    },
+    {
+      "district": "Bandarban",
+      "division": "Chattogram"
+    },
+    {
+      "district": "Brahmanbaria",
+      "division": "Chattogram"
+    },
+    {
+      "district": "Chandpur",
+      "division": "Chattogram"
+    },
+    {
+      "district": "Chattogram",
+      "division": "Chattogram"
+    },
+    {
+      "district": "Cumilla",
+      "division": "Chattogram"
+    },
+    {
+      "district": "Cox's Bazar",
+      "division": "Chattogram"
+    },
+    {
+      "district": "Feni",
+      "division": "Chattogram"
+    },
+    {
+      "district": "Khagrachhari",
+      "division": "Chattogram"
+    },
+    {
+      "district": "Lakshmipur",
+      "division": "Chattogram"
+    },
+    {
+      "district": "Noakhali",
+      "division": "Chattogram"
+    },
+    {
+      "district": "Rangamati",
+      "division": "Chattogram"
+    },
+    {
+      "district": "Bogura",
+      "division": "Rajshahi"
+    },
+    {
+      "district": "Chapainawabganj",
+      "division": "Rajshahi"
+    },
+    {
+      "district": "Joypurhat",
+      "division": "Rajshahi"
+    },
+    {
+      "district": "Naogaon",
+      "division": "Rajshahi"
+    },
+    {
+      "district": "Natore",
+      "division": "Rajshahi"
+    },
+    {
+      "district": "Pabna",
+      "division": "Rajshahi"
+    },
+    {
+      "district": "Rajshahi",
+      "division": "Rajshahi"
+    },
+    {
+      "district": "Sirajganj",
+      "division": "Rajshahi"
+    },
+    {
+      "district": "Bagerhat",
+      "division": "Khulna"
+    },
+    {
+      "district": "Chuadanga",
+      "division": "Khulna"
+    },
+    {
+      "district": "Jashore",
+      "division": "Khulna"
+    },
+    {
+      "district": "Jhenaidah",
+      "division": "Khulna"
+    },
+    {
+      "district": "Khulna",
+      "division": "Khulna"
+    },
+    {
+      "district": "Kushtia",
+      "division": "Khulna"
+    },
+    {
+      "district": "Magura",
+      "division": "Khulna"
+    },
+    {
+      "district": "Meherpur",
+      "division": "Khulna"
+    },
+    {
+      "district": "Narail",
+      "division": "Khulna"
+    },
+    {
+      "district": "Satkhira",
+      "division": "Khulna"
+    },
+    {
+      "district": "Barguna",
+      "division": "Barishal"
+    },
+    {
+      "district": "Barishal",
+      "division": "Barishal"
+    },
+    {
+      "district": "Bhola",
+      "division": "Barishal"
+    },
+    {
+      "district": "Jhalokati",
+      "division": "Barishal"
+    },
+    {
+      "district": "Patuakhali",
+      "division": "Barishal"
+    },
+    {
+      "district": "Pirojpur",
+      "division": "Barishal"
+    },
+    {
+      "district": "Habiganj",
+      "division": "Sylhet"
+    },
+    {
+      "district": "Moulvibazar",
+      "division": "Sylhet"
+    },
+    {
+      "district": "Sunamganj",
+      "division": "Sylhet"
+    },
+    {
+      "district": "Sylhet",
+      "division": "Sylhet"
+    },
+    {
+      "district": "Dinajpur",
+      "division": "Rangpur"
+    },
+    {
+      "district": "Gaibandha",
+      "division": "Rangpur"
+    },
+    {
+      "district": "Kurigram",
+      "division": "Rangpur"
+    },
+    {
+      "district": "Lalmonirhat",
+      "division": "Rangpur"
+    },
+    {
+      "district": "Nilphamari",
+      "division": "Rangpur"
+    },
+    {
+      "district": "Panchagarh",
+      "division": "Rangpur"
+    },
+    {
+      "district": "Rangpur",
+      "division": "Rangpur"
+    },
+    {
+      "district": "Thakurgaon",
+      "division": "Rangpur"
+    },
+    {
+      "district": "Jamalpur",
+      "division": "Mymensingh"
+    },
+    {
+      "district": "Mymensingh",
+      "division": "Mymensingh"
+    },
+    {
+      "district": "Netrokona",
+      "division": "Mymensingh"
+    },
+    {
+      "district": "Sherpur",
+      "division": "Mymensingh"
+    }
+  ],
+  "major_rivers": [
+    {
+      "name": "Padma",
+      "bn_name": "পদ্মা",
+      "length_km": 366,
+      "transboundary": true,
+      "origin": "Ganges (India)",
+      "outfall": "Meghna at Chandpur",
+      "key_districts": [
+        "Chapainawabganj",
+        "Rajshahi",
+        "Pabna",
+        "Kushtia",
+        "Rajbari",
+        "Faridpur",
+        "Munshiganj",
+        "Shariatpur"
+      ]
+    },
+    {
+      "name": "Jamuna",
+      "bn_name": "যমুনা",
+      "length_km": 240,
+      "transboundary": true,
+      "origin": "Brahmaputra (Assam)",
+      "outfall": "Padma at Goalundo",
+      "key_districts": [
+        "Kurigram",
+        "Gaibandha",
+        "Bogura",
+        "Jamalpur",
+        "Sirajganj",
+        "Tangail",
+        "Pabna"
+      ]
+    },
+    {
+      "name": "Meghna (Upper & Lower)",
+      "bn_name": "মেঘনা",
+      "length_km": 264,
+      "transboundary": false,
+      "origin": "Confluence of Surma and Kushiyara",
+      "outfall": "Bay of Bengal",
+      "key_districts": [
+        "Kishoreganj",
+        "Brahmanbaria",
+        "Narsingdi",
+        "Munshiganj",
+        "Chandpur",
+        "Lakshmipur",
+        "Bhola"
+      ]
+    },
+    {
+      "name": "Teesta",
+      "bn_name": "তিস্তা",
+      "length_km": 115,
+      "transboundary": true,
+      "origin": "Sikkim Himalayas",
+      "outfall": "Jamuna at Chilmari",
+      "key_districts": [
+        "Nilphamari",
+        "Lalmonirhat",
+        "Rangpur",
+        "Kurigram",
+        "Gaibandha"
+      ]
+    },
+    {
+      "name": "Surma",
+      "bn_name": "সুরমা",
+      "length_km": 249,
+      "transboundary": true,
+      "origin": "Barak River (Manipur/Assam)",
+      "outfall": "Meghna at Kuliarchar",
+      "key_districts": [
+        "Sylhet",
+        "Sunamganj",
+        "Habiganj",
+        "Kishoreganj"
+      ]
+    },
+    {
+      "name": "Kushiyara",
+      "bn_name": "কুশিয়ারা",
+      "length_km": 161,
+      "transboundary": true,
+      "origin": "Barak River at Amalshid",
+      "outfall": "Meghna at Bhairab",
+      "key_districts": [
+        "Sylhet",
+        "Moulvibazar",
+        "Habiganj"
+      ]
+    },
+    {
+      "name": "Karatoa",
+      "bn_name": "করতোয়া",
+      "length_km": 257,
+      "transboundary": false,
+      "origin": "Nilphamari / Panchagarh",
+      "outfall": "Bangali River in Bogura",
+      "key_districts": [
+        "Panchagarh",
+        "Dinajpur",
+        "Rangpur",
+        "Gaibandha",
+        "Bogura"
+      ]
+    },
+    {
+      "name": "Atrai",
+      "bn_name": "আত্রাই",
+      "length_km": 269,
+      "transboundary": true,
+      "origin": "Karatoa in Panchagarh / West Bengal",
+      "outfall": "Hurasagar in Pabna",
+      "key_districts": [
+        "Dinajpur",
+        "Naogaon",
+        "Natore",
+        "Pabna",
+        "Rajshahi"
+      ]
+    },
+    {
+      "name": "Bangali",
+      "bn_name": "বাঙালি",
+      "length_km": 203,
+      "transboundary": false,
+      "origin": "Nilphamari / Gaibandha",
+      "outfall": "Jamuna / Hurasagar",
+      "key_districts": [
+        "Gaibandha",
+        "Bogura",
+        "Sirajganj"
+      ]
+    },
+    {
+      "name": "Buriganga",
+      "bn_name": "বুড়িগঙ্গা",
+      "length_km": 29,
+      "transboundary": false,
+      "origin": "Turag / Dhaleshwari near Aminbazar",
+      "outfall": "Dhaleshwari at Narayanganj",
+      "key_districts": [
+        "Dhaka",
+        "Narayanganj"
+      ]
+    },
+    {
+      "name": "Karnaphuli",
+      "bn_name": "কর্ণফুলী",
+      "length_km": 131,
+      "transboundary": true,
+      "origin": "Lushai Hills (Mizoram)",
+      "outfall": "Bay of Bengal at Patenga",
+      "key_districts": [
+        "Rangamati",
+        "Chattogram"
+      ]
+    },
+    {
+      "name": "Halda",
+      "bn_name": "হালদা",
+      "length_km": 98,
+      "transboundary": false,
+      "origin": "Badnatali Hills (Khagrachhari)",
+      "outfall": "Karnaphuli at Kalurghat",
+      "key_districts": [
+        "Khagrachhari",
+        "Chattogram"
+      ]
+    },
+    {
+      "name": "Gorai-Madhumati",
+      "bn_name": "গড়াই-মধুমতি",
+      "length_km": 306,
+      "transboundary": false,
+      "origin": "Padma at Kushtia",
+      "outfall": "Baleshwar Estuary",
+      "key_districts": [
+        "Kushtia",
+        "Jhenaidah",
+        "Magura",
+        "Faridpur",
+        "Narail",
+        "Gopalganj",
+        "Bagerhat"
+      ]
+    },
+    {
+      "name": "Gumti",
+      "bn_name": "গোমতী",
+      "length_km": 95,
+      "transboundary": true,
+      "origin": "Tripura Hills",
+      "outfall": "Meghna at Daudkandi",
+      "key_districts": [
+        "Cumilla"
+      ]
+    },
+    {
+      "name": "Muhuri",
+      "bn_name": "মুহুরী",
+      "length_km": 62,
+      "transboundary": true,
+      "origin": "Lushai Hills (Tripura)",
+      "outfall": "Feni River Estuary",
+      "key_districts": [
+        "Feni"
+      ]
+    }
+  ]
+}
