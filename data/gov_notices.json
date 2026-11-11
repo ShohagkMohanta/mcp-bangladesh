@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 00:31:02 UTC",
+  "updated_at": "2026-11-11 09:07:57 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -62,6 +62,13 @@
     {
       "agency_code": "SHED",
       "agency_name": "Ministry of Education (SHED)",
+      "title": "হবিগঞ্জ কৃষি বিশ্ববিদ্যালয় আইন-২০২০ সংশোধনের নিমিত্ত খসড়ার আইনের ওপর মতামত প্রদান",
+      "published_date": "10-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/e0aa4022-0d54-4886-97be-356b4cf6ab8b.pdf"
+    },
+    {
+      "agency_code": "SHED",
+      "agency_name": "Ministry of Education (SHED)",
       "title": "৪৫ তম সাধারণ শিক্ষা ক্যাডারের প্রভাষকগণের যোগদানপত্র গ্রহণ",
       "published_date": "05-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/c9dfde60-8b20-426e-b3f7-f1227afd1012.pdf"
@@ -109,11 +116,11 @@
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/9/13ba5bbe-c718-4d9f-8a52-802039335676.pdf"
     },
     {
-      "agency_code": "SHED",
-      "agency_name": "Ministry of Education (SHED)",
-      "title": "৪৯ তম বি.সি.এস. (বিশেষ) সাধারণ শিক্ষা ক্যাডার কর্মকর্তাদের নিয়োগ প্রদান",
-      "published_date": "07-10-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/9/a172543a-37cf-42fc-ad2c-eed6865a25e8.pdf"
+      "agency_code": "MOF",
+      "agency_name": "Ministry of Finance",
+      "title": "Introduction to Budget Management (IBM) কোর্সের ৬০ ও ৬১ তম ব্যাচের প্রশিক্ষণে অংশগ্রহণের জন্য প্রশিক্ষণার্থী মনোনয়ন।",
+      "published_date": "11-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/94e05b3a-3c67-4da5-b3d8-ba68e73ece9c.pdf"
     },
     {
       "agency_code": "MOF",
@@ -163,13 +170,6 @@
       "title": "সরকারি কোয়ার্টার ও কলোনিসমূহে বসবাসের অনুকূল পরিবেশ সৃষ্টি এবং ডেঙ্গু প্রতিরোধে বিশেষ পরিষ্কার-পরিছন্নতা কার্যক্রম সংক্রান্ত।",
       "published_date": "03-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/b23f690c-9459-45f7-9c33-8817cea9b5dd.pdf"
-    },
-    {
-      "agency_code": "MOF",
-      "agency_name": "Ministry of Finance",
-      "title": "PFM Action Plan-এর ১টি কম্পোনেন্টের PIT পুনর্গঠন (কম্পোনেন্ট-০২)।",
-      "published_date": "01-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/7870575e-38a0-4414-aa8f-bce9a4f2cde3.pdf"
     },
     {
       "agency_code": "BPSC",
@@ -230,6 +230,13 @@
     {
       "agency_code": "PLANDIV",
       "agency_name": "Planning Division",
+      "title": "ইনোভেশন টিমের অফিস আদেশ(৬১২)",
+      "published_date": "11-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/3e728319-2d6b-4ef4-a356-bcc73fe3df9b.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
       "title": "নিয়োগপত্র-অফিস সহায়ক(৬৭৩)",
       "published_date": "10-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/edb738f4-0912-4f06-b890-7e367f4b65d0.pdf"
@@ -275,13 +282,6 @@
       "title": "PERT/CPM calculation of project বিষয়ক প্রশিক্ষণে অংশগ্রহণের জন্য কর্মকর্তা মনোনয়ন (৩০১)",
       "published_date": "05-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/5a50fa7f-e326-4ead-a97e-73e5f940a764.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "পরিকল্পনা বিভাগের দপ্তরি ও অফিস সহায়কগণের খসড়া পারস্পারিক জ্যেষ্ঠতার তালিকা চূড়ান্তকরণ (২১১)",
-      "published_date": "04-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/cbef3306-d6c1-431b-b55a-2d6aac827e72.pdf"
     },
     {
       "agency_code": "DPE",

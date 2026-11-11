@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-11-11 00:31:07 UTC",
+  "updated_at": "2026-11-11 09:08:10 UTC",
   "sources": [
     "Bangladesh Bank (bb.org.bd)",
     "Trading Corporation of Bangladesh (tcb.gov.bd)"
   ],
   "usd_bdt_reference_rates": [
+    {
+      "date": "11 November, 2026",
+      "rate_11am_bdt": "124.6021",
+      "rate_5pm_bdt": ""
+    },
     {
       "date": "10 November, 2026",
       "rate_11am_bdt": "124.6094",
@@ -24,11 +29,6 @@
       "date": "05 November, 2026",
       "rate_11am_bdt": "124.3322",
       "rate_5pm_bdt": "124.6248"
-    },
-    {
-      "date": "04 November, 2026",
-      "rate_11am_bdt": "124.3569",
-      "rate_5pm_bdt": "124.5008"
     }
   ],
   "cpi_inflation": [
