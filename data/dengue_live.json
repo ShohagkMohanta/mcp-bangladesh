@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 09:07:46 UTC",
+  "updated_at": "2026-11-11 17:48:35 UTC",
   "source": "DGHS HEOC & Control Room",
   "dengue": {
     "report_date": "08/11/26",
@@ -586,70 +586,70 @@
     ]
   },
   "measles": {
-    "report_date": "10/11/26",
-    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dghs/2026/10/bf3806f2-26b4-4de9-96c3-95400b28e605.pdf",
+    "report_date": "11/11/26",
+    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dghs/2026/10/97d85e43-9fb4-4a1a-8dc6-3ca78f8cdb71.pdf",
     "divisions": [
       {
         "division": "Dhaka",
-        "new_cases_24h": 514,
-        "currently_admitted": 2649,
-        "total_suspected": 100512,
-        "new_deaths_24h": 1,
-        "total_deaths": 531
+        "new_cases_24h": 533,
+        "currently_admitted": 2773,
+        "total_suspected": 101045,
+        "new_deaths_24h": 2,
+        "total_deaths": 533
       },
       {
         "division": "Sylhet",
-        "new_cases_24h": 165,
-        "currently_admitted": 668,
-        "total_suspected": 21290,
+        "new_cases_24h": 166,
+        "currently_admitted": 658,
+        "total_suspected": 21456,
         "new_deaths_24h": 1,
-        "total_deaths": 207
+        "total_deaths": 208
       },
       {
         "division": "Chattogram",
-        "new_cases_24h": 238,
-        "currently_admitted": 3003,
-        "total_suspected": 48218,
-        "new_deaths_24h": 3,
-        "total_deaths": 118
+        "new_cases_24h": 256,
+        "currently_admitted": 3052,
+        "total_suspected": 48474,
+        "new_deaths_24h": 1,
+        "total_deaths": 119
       },
       {
         "division": "Rajshahi",
-        "new_cases_24h": 37,
-        "currently_admitted": 45,
-        "total_suspected": 11867,
+        "new_cases_24h": 35,
+        "currently_admitted": 27,
+        "total_suspected": 11902,
         "new_deaths_24h": 0,
         "total_deaths": 93
       },
       {
         "division": "Mymensingh",
         "new_cases_24h": 107,
-        "currently_admitted": 604,
-        "total_suspected": 12691,
-        "new_deaths_24h": 0,
-        "total_deaths": 90
+        "currently_admitted": 603,
+        "total_suspected": 12798,
+        "new_deaths_24h": 2,
+        "total_deaths": 92
       },
       {
         "division": "Barishal",
-        "new_cases_24h": 123,
-        "currently_admitted": 952,
-        "total_suspected": 25871,
+        "new_cases_24h": 106,
+        "currently_admitted": 972,
+        "total_suspected": 25977,
         "new_deaths_24h": 0,
         "total_deaths": 70
       },
       {
         "division": "Khulna",
-        "new_cases_24h": 145,
-        "currently_admitted": 588,
-        "total_suspected": 16491,
+        "new_cases_24h": 108,
+        "currently_admitted": 570,
+        "total_suspected": 16599,
         "new_deaths_24h": 0,
         "total_deaths": 57
       },
       {
         "division": "Rangpur",
-        "new_cases_24h": 28,
-        "currently_admitted": 232,
-        "total_suspected": 4616,
+        "new_cases_24h": 40,
+        "currently_admitted": 248,
+        "total_suspected": 4656,
         "new_deaths_24h": 0,
         "total_deaths": 18
       }

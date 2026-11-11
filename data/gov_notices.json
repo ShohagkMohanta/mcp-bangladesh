@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 09:07:57 UTC",
+  "updated_at": "2026-11-11 17:48:46 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -118,6 +118,13 @@
     {
       "agency_code": "MOF",
       "agency_name": "Ministry of Finance",
+      "title": "সরকার মোবাইল কোর্ট পরিচালনাকারী এক্সিকিউটিভ ম্যাজিস্ট্রেট এবং সহযোগী কর্মকর্তা/কর্মচারীদের সম্মানীর পরিমাণ পুনর্নির্ধারণ",
+      "published_date": "11-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/d39ed36d-37d4-4057-b287-b1635b5df2f3.pdf"
+    },
+    {
+      "agency_code": "MOF",
+      "agency_name": "Ministry of Finance",
       "title": "Introduction to Budget Management (IBM) কোর্সের ৬০ ও ৬১ তম ব্যাচের প্রশিক্ষণে অংশগ্রহণের জন্য প্রশিক্ষণার্থী মনোনয়ন।",
       "published_date": "11-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/94e05b3a-3c67-4da5-b3d8-ba68e73ece9c.pdf"
@@ -163,13 +170,6 @@
       "title": "”Special Budget Management (SBM)” বিষয়ক ২য় ব্যাচের প্রশিক্ষণে অংশগ্রহণের জন্য প্রশিক্ষণার্থী মনোনয়ন।",
       "published_date": "04-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/05c970a7-7e4f-4867-919c-dee87190f8ed.pdf"
-    },
-    {
-      "agency_code": "MOF",
-      "agency_name": "Ministry of Finance",
-      "title": "সরকারি কোয়ার্টার ও কলোনিসমূহে বসবাসের অনুকূল পরিবেশ সৃষ্টি এবং ডেঙ্গু প্রতিরোধে বিশেষ পরিষ্কার-পরিছন্নতা কার্যক্রম সংক্রান্ত।",
-      "published_date": "03-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/b23f690c-9459-45f7-9c33-8817cea9b5dd.pdf"
     },
     {
       "agency_code": "BPSC",
