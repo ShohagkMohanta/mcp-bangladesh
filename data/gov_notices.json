@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-12 00:23:11 UTC",
+  "updated_at": "2026-11-12 09:35:12 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
+    {
+      "agency_code": "DSHE",
+      "agency_name": "Directorate of Secondary & Higher Education",
+      "title": "সরকারি মাধ্যমিক বিদ্যালয়ের বিএড (২০২৭ শিক্ষাবর্ষে) প্রশিক্ষবিহীন শিক্ষকদের চাহিত তথ্য প্রেরণ।",
+      "published_date": "12-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/1de3c6f3-c22d-4340-90a1-32e4552d4787.pdf"
+    },
     {
       "agency_code": "DSHE",
       "agency_name": "Directorate of Secondary & Higher Education",
@@ -51,13 +58,6 @@
       "title": "আগামী ৭ই নভেম্বর ২০২৬ তারিখ জাতীয় বিপ্লব ও সংহতি দিবস উদযাপন উপলক্ষে সরকার কর্তৃক কর্মসূচী নির্ধারণ।",
       "published_date": "03-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/93e5f1b7-29e5-4873-b535-8cc61bb8ca0c.pdf"
-    },
-    {
-      "agency_code": "DSHE",
-      "agency_name": "Directorate of Secondary & Higher Education",
-      "title": "মাধ্যমিক ও উচ্চ শিক্ষা অধিদপ্তরের অধীনস্থ সকল সরকারি কলেজে উচ্চ মাধ্যমিক, ডিগ্রি, অনার্স ও মাস্টার্স পর্যায়ে পঠিত বিষয়সমূহ অনুমোদনের কপি প্রেরণ প্রসঙ্গে",
-      "published_date": "03-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/28319d61-ecca-4877-89cf-9e3b7b646386.jpeg"
     },
     {
       "agency_code": "SHED",
@@ -118,6 +118,27 @@
     {
       "agency_code": "MOF",
       "agency_name": "Ministry of Finance",
+      "title": "২০২৬-২৭ অর্থবছরের সংশোধিত বাজেট প্রাক্কলন (পরিচালন ও উন্নয়ন) প্রণয়ন।",
+      "published_date": "12-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/5449592f-670f-4684-89a0-e7ce92cb6ac8.pdf"
+    },
+    {
+      "agency_code": "MOF",
+      "agency_name": "Ministry of Finance",
+      "title": "চাকরি (বেতন ও ভাতাদি) আদেশ,২০২৬ অনুযায়ী শ্রান্তি ও বিনোদন ভাতা প্রাপ্যতার বিষয়ে স্পষ্টীকরণ।",
+      "published_date": "12-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/f043aafc-c32a-4a82-b5ad-d2ce6688a8ca.pdf"
+    },
+    {
+      "agency_code": "MOF",
+      "agency_name": "Ministry of Finance",
+      "title": "চাকরি (বেতন ও ভাতাদি) আদেশ,২০২৬ সংশোধন সংক্রান্ত।",
+      "published_date": "12-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/2c507f89-a35a-49b7-b657-66becb0354e0.pdf"
+    },
+    {
+      "agency_code": "MOF",
+      "agency_name": "Ministry of Finance",
       "title": "সরকার মোবাইল কোর্ট পরিচালনাকারী এক্সিকিউটিভ ম্যাজিস্ট্রেট এবং সহযোগী কর্মকর্তা/কর্মচারীদের সম্মানীর পরিমাণ পুনর্নির্ধারণ",
       "published_date": "11-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/d39ed36d-37d4-4057-b287-b1635b5df2f3.pdf"
@@ -128,13 +149,6 @@
       "title": "Introduction to Budget Management (IBM) কোর্সের ৬০ ও ৬১ তম ব্যাচের প্রশিক্ষণে অংশগ্রহণের জন্য প্রশিক্ষণার্থী মনোনয়ন।",
       "published_date": "11-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/94e05b3a-3c67-4da5-b3d8-ba68e73ece9c.pdf"
-    },
-    {
-      "agency_code": "MOF",
-      "agency_name": "Ministry of Finance",
-      "title": "২০২৬-২৭ অর্থবছরের সংশোধিত বাজেট প্রাক্কলন (পরিচালন ও উন্নয়ন) প্রণয়ন।",
-      "published_date": "10-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/5449592f-670f-4684-89a0-e7ce92cb6ac8.pdf"
     },
     {
       "agency_code": "MOF",
@@ -156,20 +170,6 @@
       "title": "অর্থ বিভাগের খালি বাসা বরাদ্দ সংক্রান্ত নোটিশ",
       "published_date": "09-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/e1ac813c-2fe0-40d2-9d41-5949632fb62a.pdf"
-    },
-    {
-      "agency_code": "MOF",
-      "agency_name": "Ministry of Finance",
-      "title": "অর্থ বিভাগের প্রশাসনিক কর্মকর্তা পদে নিয়োগের লক্ষ্যে তাদের স্বাস্থ্য পরীক্ষা সনদ এবং প্রাক জীবন বৃত্তান্ত যাচাই সংক্রান্ত।",
-      "published_date": "08-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/57f2e368-18b5-436c-b067-c2f8e0c469e6.pdf"
-    },
-    {
-      "agency_code": "MOF",
-      "agency_name": "Ministry of Finance",
-      "title": "”Special Budget Management (SBM)” বিষয়ক ২য় ব্যাচের প্রশিক্ষণে অংশগ্রহণের জন্য প্রশিক্ষণার্থী মনোনয়ন।",
-      "published_date": "04-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/05c970a7-7e4f-4867-919c-dee87190f8ed.pdf"
     },
     {
       "agency_code": "BPSC",
@@ -230,6 +230,34 @@
     {
       "agency_code": "PLANDIV",
       "agency_name": "Planning Division",
+      "title": "পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (৩৪২)",
+      "published_date": "12-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/98f1a8bf-3a67-4b20-833d-a6ecc304650f.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (৩৪১)",
+      "published_date": "12-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/ee06142b-8c05-4b71-b9cc-d9b97c413b3b.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "দক্ষতা নবায়ন প্রশিক্ষণ কোর্সের ৩য় ব্যাচে কর্মকর্তা/কর্মচারী মনোনয়ন (৩১১)",
+      "published_date": "12-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/374e1e0f-2d71-493b-9e2a-98c2e9e9673a.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (৯৩)",
+      "published_date": "12-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/318fb4f8-4b0f-40c7-aef1-aefce0d15f1d.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
       "title": "ইনোভেশন টিমের অফিস আদেশ(৬১২)",
       "published_date": "11-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/3e728319-2d6b-4ef4-a356-bcc73fe3df9b.pdf"
@@ -256,32 +284,11 @@
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/24843880-fa23-4deb-a4cf-4fd7f6c1eea3.pdf"
     },
     {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "নিয়োগপত্র-কম্পিউটার অপারেটর(৬৭১)",
-      "published_date": "10-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/e33b7d43-e3f1-451e-9d6c-c0c612ba720e.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "পরিকল্পনা বিভাগের ১৩-২০তম গ্রেডের শূন্য পদে জনবল নিয়োগের চূড়ান্ত ফলাফল প্রকাশ(৬৬৫)",
-      "published_date": "05-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/7fda5a99-d25b-447f-b219-34f566b3f332.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "দক্ষতা নবায়ন প্রশিক্ষণ কোর্সের ২য় ব্যাচে কর্মকর্তা/কর্মচারী মনোনয়ন (৩০৩)",
-      "published_date": "05-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/ef59549b-f1c2-46c0-9c56-604b9eb1dbf6.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "PERT/CPM calculation of project বিষয়ক প্রশিক্ষণে অংশগ্রহণের জন্য কর্মকর্তা মনোনয়ন (৩০১)",
-      "published_date": "05-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/5a50fa7f-e326-4ead-a97e-73e5f940a764.pdf"
+      "agency_code": "DPE",
+      "agency_name": "Directorate of Primary Education",
+      "title": "বহিঃ: বাংলাদেশ ছুটিমঞ্জুর সংক্রান্ত, স্মারক: তারিখঃ ২৩.৩৯১/১(৯), তারিখ: ১১/১১/২০২৬খ্রিঃ।",
+      "published_date": "12-11-2026",
+      "url": "https://dpe.gov.bd/pages/notices/বহিঃ-বাংলাদেশ-ছুটিমঞ্জুর-সংক্রান্ত-স্মারক-তারিখঃ-২৩৩৯১১৯-তারিখ-১১১১২০২৬খ্রিঃ-ba485301-6af551e619c09459721ae668"
     },
     {
       "agency_code": "DPE",
@@ -331,13 +338,6 @@
       "title": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক ও হিসাব সহকারী পদে প্রাথমিক বাছাই পরীক্ষার সংক্রান্ত, তারিখঃ২২/১২/২০২৫।",
       "published_date": "22/12/2025",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dpe/2024/12/79b94770f98b43fc974a77839ee3897d.pdf"
-    },
-    {
-      "agency_code": "DPE",
-      "agency_name": "Directorate of Primary Education",
-      "title": "প্রাথমিক শিক্ষা অধিদপ্তরের ৫টি ক্যাটাগরির ১৬৪টি শূন্য পদে নিয়োগের লক্ষ্যে প্রাথমিকভাবে নির্বাচিত প্রার্থীদের স্বাস্থ্য পরীক্ষা সনদ গ্রহণ সংক্রান্ত, স্মারক নংঃ২৫০৯ তারিখ: ০৭/১২/২০২৫।",
-      "published_date": "07/12/2025",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dpe/2024/12/02fa34935e0c42a49ec0148086a3e875.pdf"
     }
   ]
 }
