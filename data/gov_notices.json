@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 09:35:12 UTC",
+  "updated_at": "2026-11-12 18:02:46 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -62,6 +62,13 @@
     {
       "agency_code": "SHED",
       "agency_name": "Ministry of Education (SHED)",
+      "title": "সরকারি মাধ্যমিক বিদ্যালয়ে শিক্ষার্থী ভর্তির নীতিমালা-২০২৭ (সংশোধিত)",
+      "published_date": "12-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/bbc3030c-9c12-41fd-b636-d5e0222585dd.pdf"
+    },
+    {
+      "agency_code": "SHED",
+      "agency_name": "Ministry of Education (SHED)",
       "title": "হবিগঞ্জ কৃষি বিশ্ববিদ্যালয় আইন-২০২০ সংশোধনের নিমিত্ত খসড়ার আইনের ওপর মতামত প্রদান",
       "published_date": "10-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/e0aa4022-0d54-4886-97be-356b4cf6ab8b.pdf"
@@ -107,13 +114,6 @@
       "title": "৪৯তম বিসিএস (বিশেষ) এর প্রভাষক পদে পদায়ন",
       "published_date": "19-10-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/9/bcd13118-fd05-48e1-8c0c-54b0c4e22f1d.pdf"
-    },
-    {
-      "agency_code": "SHED",
-      "agency_name": "Ministry of Education (SHED)",
-      "title": "সরকারি মাধ্যমিক বিদ্যালয়ে শিক্ষার্থী ভর্তির নীতিমালা-২০২৭",
-      "published_date": "13-10-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/9/13ba5bbe-c718-4d9f-8a52-802039335676.pdf"
     },
     {
       "agency_code": "MOF",
