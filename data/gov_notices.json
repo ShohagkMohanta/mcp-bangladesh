@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 17:48:46 UTC",
+  "updated_at": "2026-11-12 00:23:11 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -202,13 +202,6 @@
     {
       "agency_code": "BPSC",
       "agency_name": "Bangladesh Public Service Commission",
-      "title": "জনাব মোঃ নুর ইসলাম, অফিস সহায়ক এর নিয়োগপত্র।",
-      "published_date": "15-10-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2026/9/88878a1b-34af-45c4-a82a-86652bda91b0.pdf"
-    },
-    {
-      "agency_code": "BPSC",
-      "agency_name": "Bangladesh Public Service Commission",
       "title": "অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক পদে অপেক্ষমান তালিকা হতে সুপারিশপ্রাপ্ত ৬ (ছয়) জন প্রার্থীর নিয়োগপত্র।",
       "published_date": "15-10-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2026/9/e317c696-d6f8-4299-afea-985b39c9b887.pdf"
@@ -226,6 +219,13 @@
       "title": "বাংলাদেশ সরকারী কর্ম কমিশন সচিবালয়ের পরিচ্ছন্নতা কর্মী পদের নিয়োগপত্র।",
       "published_date": "15-09-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2026/8/5ad8bf01-e7c7-4f33-b6af-d9e8a055dfd5.pdf"
+    },
+    {
+      "agency_code": "BPSC",
+      "agency_name": "Bangladesh Public Service Commission",
+      "title": "বাংলাদেশ সরকারী কর্ম কমিশন সচিবালয়ের অফিস সহায়ক পদের নিয়োগপত্র।",
+      "published_date": "15-09-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2026/8/e928d2a2-a5b4-4958-b7af-951f71116736.pdf"
     },
     {
       "agency_code": "PLANDIV",
