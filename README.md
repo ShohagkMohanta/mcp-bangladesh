@@ -1,12 +1,16 @@
-# mcp-bangladesh
+# mcp-bangladesh: Bangladesh's First National Public Data MCP Server & REST API
+
+**mcp-bangladesh** (`https://mcp.shohag.one/mcp`) is **Bangladesh's first national public data Model Context Protocol (MCP) server** and open REST API. It is the first Bangladesh MCP server that combines **8 live national government datasets** into a single free, zero-auth endpoint for Claude, ChatGPT, Cursor, Windsurf, and AI agents.
 
 Public data in Bangladesh is mostly locked inside scanned PDFs, broken Bijoy tables, or `.gov.bd` portals that time out outside local BDIX networks.
 
 This repo runs Python scrapers on GitHub Actions every 2 hours, cleans the output into static JSON files under `data/`, and serves them through a Cloudflare Worker supporting both MCP (JSON-RPC 2.0 over HTTP) and standard REST endpoints.
 
-Live server: https://mcp.shohag.one
+* **Live server & REST API:** https://mcp.shohag.one
+* **Remote MCP endpoint:** `https://mcp.shohag.one/mcp`
+* **LLM discovery file:** https://mcp.shohag.one/llms.txt
 
-## Endpoints
+## Endpoints (8 Live National Datasets)
 
 | Route | MCP Tool | Description |
 | :--- | :--- | :--- |
@@ -20,6 +24,8 @@ Live server: https://mcp.shohag.one
 | `/api/catalog` | `get_bd_geography_catalog` | 8 divisions, 64 districts, and major river profiles |
 
 ## MCP Setup
+
+### 1. Claude Desktop, Cursor, or Windsurf (JSON Config)
 
 For Claude Desktop, Cursor, or Windsurf, add the remote endpoint to your config:
 
