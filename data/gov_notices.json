@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 09:21:30 UTC",
+  "updated_at": "2026-11-13 17:37:13 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -300,6 +300,13 @@
     {
       "agency_code": "DPE",
       "agency_name": "Directorate of Primary Education",
+      "title": "জনাব মোঃ মনিরুল ইসলাম, কম্পিউটার অপারেটর, প্রাথমিক শিক্ষা অধিদপ্তর এর শোকবার্তা প্রকাশ",
+      "published_date": "30-07-2026",
+      "url": "https://dpe.gov.bd/pages/notices/জনাব-আশীষ-চিরান-উপজেলা-প্রাথমিক-শিক্ষা-অফিসার-নাইক্ষংছড়ি-বান্দরবান-এর-শোকবার্তা-e2159bc3-6a6b3058ce042a1a7d12536f"
+    },
+    {
+      "agency_code": "DPE",
+      "agency_name": "Directorate of Primary Education",
       "title": "সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়া এঁর মৃত্যুতে রাষ্টীয়ভাবে শোক পালনের কর্মসূচী থাকার কারণে আগামী ০২জানুয়ারি ২০২৬ তারিখ অনষ্ঠেয় “সরকারি প্রাথমিক বিদ্যালয়ে সহকারী শিক্ষক নিয়োগ ২০২৫” এর লিখিত পরীক্ষা আগামী ০৯ জানুয়ারি ২০",
       "published_date": "30-12-2025",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dpe/2024/12/fc04bff9b3fe4c988dcad2733b7fd310.pdf"
@@ -331,13 +338,6 @@
       "title": "প্রাথমিক শিক্ষা অধিদপ্তরের আওতাধীন হিসাব সহকারী পদের পরীক্ষা স্থগিত সংক্রান্ত",
       "published_date": "26-12-2025",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dpe/2024/12/04e40537e1574b6ca79c05ef5579fba4.pdf"
-    },
-    {
-      "agency_code": "DPE",
-      "agency_name": "Directorate of Primary Education",
-      "title": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক ও হিসাব সহকারী পদে প্রাথমিক বাছাই পরীক্ষার সংক্রান্ত, তারিখঃ২২/১২/২০২৫।",
-      "published_date": "22/12/2025",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dpe/2024/12/79b94770f98b43fc974a77839ee3897d.pdf"
     }
   ]
 }
