@@ -38,8 +38,6 @@ def scrape_bpdb_generation():
                             "day_peak_mw": nums[1] if len(nums) > 1 else 0,
                             "evening_peak_mw": nums[2] if len(nums) > 2 else nums[-1]
                         })
-                    if len(plants) >= 40:
-                        break
     except Exception as e:
         print(f"bpdb scrape error -> {e}")
 
