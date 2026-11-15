@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-15 05:51:58 UTC",
+  "updated_at": "2026-11-15 13:47:05 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
+    {
+      "agency_code": "DSHE",
+      "agency_name": "Directorate of Secondary & Higher Education",
+      "title": "দেশের প্রত্যেকটি শিক্ষা প্রতিষ্ঠানে ফুটবল, ক্রিকেট, দাবা, মার্শাল আর্ট, ভলিবল, ব্যাডমিন্টন, অ্যাথলেটিক্স, সাঁতার, টেবিল টেনিস ও কাবাডিসহ অন্যান্য খেলা বার্ষিক একাডেমিক ক্যালেন্ডারের সাথে সামঞ্জস্য রেখে সারা বছরব্যাপী আয়ো",
+      "published_date": "15-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/dfa54522-6558-4a4b-b617-64db2b192bbb.pdf"
+    },
     {
       "agency_code": "DSHE",
       "agency_name": "Directorate of Secondary & Higher Education",
@@ -51,13 +58,6 @@
       "title": "আগামী ৭ নভেম্বর জাতীয় বিপ্লব ও সংহতি দিবস উদ্যাপন উপলক্ষ্যে জাতীয় পতাকা উত্তোলন করা প্রসঙ্গে।",
       "published_date": "03-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/956e88ff-1cc6-44ae-81b6-e90d3f33a1a9.pdf"
-    },
-    {
-      "agency_code": "DSHE",
-      "agency_name": "Directorate of Secondary & Higher Education",
-      "title": "আগামী ৭ই নভেম্বর ২০২৬ তারিখ জাতীয় বিপ্লব ও সংহতি দিবস উদযাপন উপলক্ষে সরকার কর্তৃক কর্মসূচী নির্ধারণ।",
-      "published_date": "03-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/93e5f1b7-29e5-4873-b535-8cc61bb8ca0c.pdf"
     },
     {
       "agency_code": "SHED",
