@@ -1,136 +1,136 @@
 {
-  "updated_at": "2026-11-15 19:39:38 UTC",
+  "updated_at": "2026-11-15 23:53:20 UTC",
   "total_cities": 13,
   "cities": [
     {
       "city": "Dhaka",
       "division": "Dhaka",
-      "us_aqi": 186,
+      "us_aqi": 189,
       "category": "Unhealthy",
-      "pm2_5_ugm3": 156.0,
-      "pm10_ugm3": 163.9,
-      "no2_ugm3": 76.4,
-      "o3_ugm3": 30.0
+      "pm2_5_ugm3": 121.5,
+      "pm10_ugm3": 130.9,
+      "no2_ugm3": 54.0,
+      "o3_ugm3": 33.0
     },
     {
       "city": "Narayanganj",
       "division": "Dhaka",
-      "us_aqi": 187,
+      "us_aqi": 192,
       "category": "Unhealthy",
-      "pm2_5_ugm3": 133.6,
-      "pm10_ugm3": 142.5,
-      "no2_ugm3": 41.1,
-      "o3_ugm3": 71.0
+      "pm2_5_ugm3": 117.3,
+      "pm10_ugm3": 130.9,
+      "no2_ugm3": 31.6,
+      "o3_ugm3": 59.0
     },
     {
       "city": "Gazipur",
       "division": "Dhaka",
-      "us_aqi": 186,
+      "us_aqi": 189,
       "category": "Unhealthy",
-      "pm2_5_ugm3": 156.0,
-      "pm10_ugm3": 163.9,
-      "no2_ugm3": 76.4,
-      "o3_ugm3": 30.0
+      "pm2_5_ugm3": 121.5,
+      "pm10_ugm3": 130.9,
+      "no2_ugm3": 54.0,
+      "o3_ugm3": 33.0
     },
     {
       "city": "Chattogram",
       "division": "Chattogram",
-      "us_aqi": 145,
+      "us_aqi": 141,
       "category": "Unhealthy for Sensitive Groups",
-      "pm2_5_ugm3": 60.5,
-      "pm10_ugm3": 71.5,
-      "no2_ugm3": 11.5,
-      "o3_ugm3": 117.0
+      "pm2_5_ugm3": 47.5,
+      "pm10_ugm3": 54.2,
+      "no2_ugm3": 15.5,
+      "o3_ugm3": 100.0
     },
     {
       "city": "Rajshahi",
       "division": "Rajshahi",
-      "us_aqi": 279,
+      "us_aqi": 272,
       "category": "Very Unhealthy",
-      "pm2_5_ugm3": 297.1,
-      "pm10_ugm3": 325.0,
-      "no2_ugm3": 60.8,
-      "o3_ugm3": 23.0
+      "pm2_5_ugm3": 179.3,
+      "pm10_ugm3": 195.6,
+      "no2_ugm3": 23.0,
+      "o3_ugm3": 40.0
     },
     {
       "city": "Bogura",
       "division": "Rajshahi",
-      "us_aqi": 208,
+      "us_aqi": 232,
       "category": "Very Unhealthy",
-      "pm2_5_ugm3": 139.7,
-      "pm10_ugm3": 150.9,
-      "no2_ugm3": 29.8,
-      "o3_ugm3": 43.0
+      "pm2_5_ugm3": 206.3,
+      "pm10_ugm3": 221.7,
+      "no2_ugm3": 32.2,
+      "o3_ugm3": 28.0
     },
     {
       "city": "Naogaon",
       "division": "Rajshahi",
       "us_aqi": 268,
       "category": "Very Unhealthy",
-      "pm2_5_ugm3": 234.7,
-      "pm10_ugm3": 251.5,
-      "no2_ugm3": 50.9,
-      "o3_ugm3": 20.0
+      "pm2_5_ugm3": 197.4,
+      "pm10_ugm3": 213.3,
+      "no2_ugm3": 30.5,
+      "o3_ugm3": 33.0
     },
     {
       "city": "Sylhet",
       "division": "Sylhet",
-      "us_aqi": 137,
+      "us_aqi": 144,
       "category": "Unhealthy for Sensitive Groups",
-      "pm2_5_ugm3": 78.9,
-      "pm10_ugm3": 80.8,
-      "no2_ugm3": 24.4,
-      "o3_ugm3": 52.0
+      "pm2_5_ugm3": 69.2,
+      "pm10_ugm3": 72.4,
+      "no2_ugm3": 21.0,
+      "o3_ugm3": 26.0
     },
     {
       "city": "Khulna",
       "division": "Khulna",
-      "us_aqi": 240,
+      "us_aqi": 239,
       "category": "Very Unhealthy",
-      "pm2_5_ugm3": 185.8,
-      "pm10_ugm3": 206.8,
-      "no2_ugm3": 38.9,
-      "o3_ugm3": 50.0
+      "pm2_5_ugm3": 131.8,
+      "pm10_ugm3": 148.1,
+      "no2_ugm3": 14.8,
+      "o3_ugm3": 66.0
     },
     {
       "city": "Barishal",
       "division": "Barishal",
-      "us_aqi": 191,
+      "us_aqi": 188,
       "category": "Unhealthy",
-      "pm2_5_ugm3": 150.4,
-      "pm10_ugm3": 165.3,
-      "no2_ugm3": 24.0,
-      "o3_ugm3": 76.0
+      "pm2_5_ugm3": 94.8,
+      "pm10_ugm3": 105.7,
+      "no2_ugm3": 13.9,
+      "o3_ugm3": 90.0
     },
     {
       "city": "Rangpur",
       "division": "Rangpur",
-      "us_aqi": 164,
+      "us_aqi": 172,
       "category": "Unhealthy",
-      "pm2_5_ugm3": 68.9,
-      "pm10_ugm3": 71.7,
-      "no2_ugm3": 17.9,
-      "o3_ugm3": 49.0
+      "pm2_5_ugm3": 102.2,
+      "pm10_ugm3": 109.0,
+      "no2_ugm3": 22.2,
+      "o3_ugm3": 36.0
     },
     {
       "city": "Mymensingh",
       "division": "Mymensingh",
-      "us_aqi": 174,
+      "us_aqi": 178,
       "category": "Unhealthy",
-      "pm2_5_ugm3": 163.0,
-      "pm10_ugm3": 169.5,
-      "no2_ugm3": 75.6,
-      "o3_ugm3": 7.0
+      "pm2_5_ugm3": 121.5,
+      "pm10_ugm3": 129.0,
+      "no2_ugm3": 47.2,
+      "o3_ugm3": 12.0
     },
     {
       "city": "Cumilla",
       "division": "Chattogram",
-      "us_aqi": 169,
+      "us_aqi": 166,
       "category": "Unhealthy",
-      "pm2_5_ugm3": 111.5,
-      "pm10_ugm3": 117.3,
-      "no2_ugm3": 36.4,
-      "o3_ugm3": 84.0
+      "pm2_5_ugm3": 95.2,
+      "pm10_ugm3": 100.1,
+      "no2_ugm3": 35.8,
+      "o3_ugm3": 49.0
     }
   ]
 }
