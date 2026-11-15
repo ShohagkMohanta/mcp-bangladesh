@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 23:48:05 UTC",
+  "updated_at": "2026-11-15 05:51:58 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -230,6 +230,20 @@
     {
       "agency_code": "PLANDIV",
       "agency_name": "Planning Division",
+      "title": "বার্ষিক ক্রয়পরিকল্পনা , পরামর্শসেবার কর্মপরিধি (টিওআর), আবেদনের শর্তাবলী, আবেদন/প্রস্তাব ফরম, আবেদনপত্রের নমুনা এবং ০২টি জাতীয় দৈনিক (বাংলা ও ইংরেজি) পত্রিকায় প্রকাশের জন্য আগ্রহব্যক্তকরণের অনুরোধ-সংবলিত বিজ্ঞাপন (১১১)",
+      "published_date": "15-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/6768a716-8741-45ea-8fbf-65ca820f8373.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "দক্ষতা নবায়ন প্রশিক্ষণ কোর্সের ৩য় ব্যাচে কর্মকর্তা/কর্মচারী মনোনয়ন (৩১১)",
+      "published_date": "12-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/50264cb4-7949-4557-94a0-2292744c8034.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
       "title": "পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (৩৪২)",
       "published_date": "12-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/98f1a8bf-3a67-4b20-833d-a6ecc304650f.pdf"
@@ -240,13 +254,6 @@
       "title": "পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (৩৪১)",
       "published_date": "12-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/ee06142b-8c05-4b71-b9cc-d9b97c413b3b.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "দক্ষতা নবায়ন প্রশিক্ষণ কোর্সের ৩য় ব্যাচে কর্মকর্তা/কর্মচারী মনোনয়ন (৩১১)",
-      "published_date": "12-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/374e1e0f-2d71-493b-9e2a-98c2e9e9673a.pdf"
     },
     {
       "agency_code": "PLANDIV",
@@ -275,13 +282,6 @@
       "title": "নিয়োগপত্র-অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক(৬৭২)",
       "published_date": "10-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/b8950a74-238f-4b95-a3cf-8dd3002a0718.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "নিয়োগপত্র-সাঁট-মুদ্রাক্ষরিক কাম কম্পিউটার অপারেটর(৬৭০)",
-      "published_date": "10-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/24843880-fa23-4deb-a4cf-4fd7f6c1eea3.pdf"
     },
     {
       "agency_code": "DPE",

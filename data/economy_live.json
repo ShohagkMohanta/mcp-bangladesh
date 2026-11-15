@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 23:48:11 UTC",
+  "updated_at": "2026-11-15 05:52:02 UTC",
   "sources": [
     "Bangladesh Bank (bb.org.bd)",
     "Trading Corporation of Bangladesh (tcb.gov.bd)"
@@ -34,17 +34,17 @@
   "cpi_inflation": [
     {
       "metric": "Point to point",
-      "latest_month": "Sep, 2026",
-      "latest_value": "8.34%",
-      "previous_month": "Aug, 2026",
-      "previous_value": "8.26%"
+      "latest_month": "Oct, 2026",
+      "latest_value": "8.27%",
+      "previous_month": "Sep, 2026",
+      "previous_value": "8.34%"
     },
     {
       "metric": "Monthly Average(Twelve Month)",
-      "latest_month": "Sep, 2026",
-      "latest_value": "8.65%",
-      "previous_month": "Aug, 2026",
-      "previous_value": "8.66%"
+      "latest_month": "Oct, 2026",
+      "latest_value": "8.66%",
+      "previous_month": "Sep, 2026",
+      "previous_value": "8.65%"
     }
   ],
   "tcb_daily_price_reports": [
