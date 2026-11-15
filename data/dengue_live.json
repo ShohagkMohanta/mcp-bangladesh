@@ -1,72 +1,72 @@
 {
-  "updated_at": "2026-11-15 13:46:53 UTC",
+  "updated_at": "2026-11-15 19:39:48 UTC",
   "source": "DGHS HEOC & Control Room",
   "dengue": {
-    "report_date": "13/11/26",
-    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dghs/2026/10/f2a13e0f-e1a8-4fff-a358-83f462f6e434.pdf",
+    "report_date": "15/11/26",
+    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dghs/2026/10/76c9bf79-729b-4156-b5ea-3a51d628fbaa.pdf",
     "divisions": [
       {
         "division": "Dhaka",
-        "new_cases_24h": 434,
-        "new_deaths_24h": 2,
-        "currently_admitted": 2606,
-        "total_admitted": 65173,
-        "total_deaths": 238
+        "new_cases_24h": 873,
+        "new_deaths_24h": 5,
+        "currently_admitted": 2570,
+        "total_admitted": 66760,
+        "total_deaths": 249
       },
       {
         "division": "Mymensingh",
-        "new_cases_24h": 76,
-        "new_deaths_24h": 0,
-        "currently_admitted": 278,
-        "total_admitted": 8214,
-        "total_deaths": 39
+        "new_cases_24h": 91,
+        "new_deaths_24h": 1,
+        "currently_admitted": 268,
+        "total_admitted": 8355,
+        "total_deaths": 40
       },
       {
         "division": "Chattogram",
-        "new_cases_24h": 267,
-        "new_deaths_24h": 0,
-        "currently_admitted": 458,
-        "total_admitted": 23280,
-        "total_deaths": 47
+        "new_cases_24h": 259,
+        "new_deaths_24h": 1,
+        "currently_admitted": 443,
+        "total_admitted": 23850,
+        "total_deaths": 49
       },
       {
         "division": "Khulna",
-        "new_cases_24h": 160,
-        "new_deaths_24h": 0,
-        "currently_admitted": 930,
-        "total_admitted": 23458,
-        "total_deaths": 85
+        "new_cases_24h": 193,
+        "new_deaths_24h": 1,
+        "currently_admitted": 927,
+        "total_admitted": 23841,
+        "total_deaths": 86
       },
       {
         "division": "Rajshahi",
-        "new_cases_24h": 89,
+        "new_cases_24h": 240,
         "new_deaths_24h": 0,
-        "currently_admitted": 643,
-        "total_admitted": 12552,
-        "total_deaths": 30
+        "currently_admitted": 700,
+        "total_admitted": 12907,
+        "total_deaths": 31
       },
       {
         "division": "Rangpur",
-        "new_cases_24h": 76,
+        "new_cases_24h": 74,
         "new_deaths_24h": 0,
-        "currently_admitted": 208,
-        "total_admitted": 5627,
+        "currently_admitted": 201,
+        "total_admitted": 5761,
         "total_deaths": 8
       },
       {
         "division": "Barishal",
-        "new_cases_24h": 147,
+        "new_cases_24h": 209,
         "new_deaths_24h": 0,
-        "currently_admitted": 743,
-        "total_admitted": 19548,
+        "currently_admitted": 660,
+        "total_admitted": 19970,
         "total_deaths": 32
       },
       {
         "division": "Sylhet",
-        "new_cases_24h": 6,
+        "new_cases_24h": 13,
         "new_deaths_24h": 0,
-        "currently_admitted": 49,
-        "total_admitted": 1031,
+        "currently_admitted": 47,
+        "total_admitted": 1065,
         "total_deaths": 4
       }
     ],
@@ -82,81 +82,81 @@
       {
         "district": "Faridpur",
         "division": "Dhaka",
-        "new_cases_24h": 20,
+        "new_cases_24h": 85,
         "currently_admitted": 95,
-        "total_admitted": 2280,
+        "total_admitted": 2411,
         "total_deaths": 11
       },
       {
         "district": "Gazipur",
         "division": "Dhaka",
-        "new_cases_24h": 84,
+        "new_cases_24h": 90,
         "currently_admitted": 219,
-        "total_admitted": 6862,
+        "total_admitted": 6997,
         "total_deaths": 4
       },
       {
         "district": "Gopalganj",
         "division": "Dhaka",
-        "new_cases_24h": 0,
+        "new_cases_24h": 26,
         "currently_admitted": 107,
-        "total_admitted": 1929,
+        "total_admitted": 1987,
         "total_deaths": 1
       },
       {
         "district": "Kishoreganj",
         "division": "Dhaka",
-        "new_cases_24h": 18,
+        "new_cases_24h": 33,
         "currently_admitted": 149,
-        "total_admitted": 2588,
+        "total_admitted": 2649,
         "total_deaths": 0
       },
       {
         "district": "Madaripur",
         "division": "Dhaka",
-        "new_cases_24h": 0,
+        "new_cases_24h": 69,
         "currently_admitted": 59,
-        "total_admitted": 1822,
+        "total_admitted": 1926,
         "total_deaths": 0
       },
       {
         "district": "Manikganj",
         "division": "Dhaka",
-        "new_cases_24h": 29,
+        "new_cases_24h": 26,
         "currently_admitted": 77,
-        "total_admitted": 2392,
+        "total_admitted": 2451,
         "total_deaths": 1
       },
       {
         "district": "Munshiganj",
         "division": "Dhaka",
-        "new_cases_24h": 0,
-        "currently_admitted": 52,
-        "total_admitted": 2188,
+        "new_cases_24h": 20,
+        "currently_admitted": 42,
+        "total_admitted": 2213,
         "total_deaths": 0
       },
       {
         "district": "Narayanganj",
         "division": "Dhaka",
-        "new_cases_24h": 58,
-        "currently_admitted": 91,
-        "total_admitted": 3521,
+        "new_cases_24h": 40,
+        "currently_admitted": 40,
+        "total_admitted": 3570,
         "total_deaths": 0
       },
       {
         "district": "Narsingdi",
         "division": "Dhaka",
-        "new_cases_24h": 0,
-        "currently_admitted": 98,
-        "total_admitted": 2788,
+        "new_cases_24h": 24,
+        "currently_admitted": 122,
+        "total_admitted": 2819,
         "total_deaths": 1
       },
       {
         "district": "Rajbari",
         "division": "Dhaka",
-        "new_cases_24h": 0,
-        "currently_admitted": 21,
-        "total_admitted": 541,
+        "new_cases_24h": 7,
+        "currently_admitted": 27,
+        "total_admitted": 566,
         "total_deaths": 0
       },
       {
@@ -164,287 +164,287 @@
         "division": "Dhaka",
         "new_cases_24h": 0,
         "currently_admitted": 69,
-        "total_admitted": 919,
+        "total_admitted": 924,
         "total_deaths": 0
       },
       {
         "district": "Tangail",
         "division": "Dhaka",
-        "new_cases_24h": 0,
-        "currently_admitted": 140,
-        "total_admitted": 2457,
-        "total_deaths": 9
+        "new_cases_24h": 53,
+        "currently_admitted": 150,
+        "total_admitted": 2566,
+        "total_deaths": 11
       },
       {
         "district": "Mymensingh",
         "division": "Mymensingh",
         "new_cases_24h": 19,
         "currently_admitted": 39,
-        "total_admitted": 753,
+        "total_admitted": 777,
         "total_deaths": 0
       },
       {
         "district": "Jamalpur",
         "division": "Mymensingh",
-        "new_cases_24h": 15,
-        "currently_admitted": 49,
-        "total_admitted": 891,
+        "new_cases_24h": 11,
+        "currently_admitted": 48,
+        "total_admitted": 904,
         "total_deaths": 0
       },
       {
         "district": "Sherpur",
         "division": "Mymensingh",
-        "new_cases_24h": 5,
-        "currently_admitted": 59,
-        "total_admitted": 763,
+        "new_cases_24h": 12,
+        "currently_admitted": 47,
+        "total_admitted": 777,
         "total_deaths": 1
       },
       {
         "district": "Netrokona",
         "division": "Mymensingh",
-        "new_cases_24h": 0,
-        "currently_admitted": 35,
-        "total_admitted": 886,
+        "new_cases_24h": 5,
+        "currently_admitted": 38,
+        "total_admitted": 900,
         "total_deaths": 0
       },
       {
         "district": "Chattogram",
         "division": "Chattogram",
-        "new_cases_24h": 79,
+        "new_cases_24h": 87,
         "currently_admitted": 186,
-        "total_admitted": 7654,
-        "total_deaths": 40
+        "total_admitted": 7828,
+        "total_deaths": 42
       },
       {
         "district": "Cox's Bazar",
         "division": "Chattogram",
-        "new_cases_24h": 32,
-        "currently_admitted": 49,
-        "total_admitted": 3151,
+        "new_cases_24h": 20,
+        "currently_admitted": 33,
+        "total_admitted": 3211,
         "total_deaths": 1
       },
       {
         "district": "Bandarban",
         "division": "Chattogram",
-        "new_cases_24h": 10,
-        "currently_admitted": 18,
-        "total_admitted": 1448,
+        "new_cases_24h": 12,
+        "currently_admitted": 15,
+        "total_admitted": 1469,
         "total_deaths": 3
       },
       {
         "district": "Rangamati",
         "division": "Chattogram",
-        "new_cases_24h": 9,
-        "currently_admitted": 17,
-        "total_admitted": 543,
+        "new_cases_24h": 15,
+        "currently_admitted": 19,
+        "total_admitted": 569,
         "total_deaths": 0
       },
       {
         "district": "Khagrachhari",
         "division": "Chattogram",
         "new_cases_24h": 7,
-        "currently_admitted": 13,
-        "total_admitted": 515,
+        "currently_admitted": 10,
+        "total_admitted": 530,
         "total_deaths": 1
       },
       {
         "district": "Feni",
         "division": "Chattogram",
-        "new_cases_24h": 25,
-        "currently_admitted": 24,
-        "total_admitted": 1476,
+        "new_cases_24h": 22,
+        "currently_admitted": 32,
+        "total_admitted": 1519,
         "total_deaths": 0
       },
       {
         "district": "Noakhali",
         "division": "Chattogram",
-        "new_cases_24h": 37,
-        "currently_admitted": 28,
-        "total_admitted": 2028,
+        "new_cases_24h": 15,
+        "currently_admitted": 22,
+        "total_admitted": 2077,
         "total_deaths": 0
       },
       {
         "district": "Cumilla",
         "division": "Chattogram",
-        "new_cases_24h": 19,
-        "currently_admitted": 47,
-        "total_admitted": 2590,
+        "new_cases_24h": 33,
+        "currently_admitted": 50,
+        "total_admitted": 2656,
         "total_deaths": 1
       },
       {
         "district": "Chandpur",
         "division": "Chattogram",
-        "new_cases_24h": 34,
+        "new_cases_24h": 25,
         "currently_admitted": 39,
-        "total_admitted": 2501,
+        "total_admitted": 2569,
         "total_deaths": 1
       },
       {
         "district": "Lakshmipur",
         "division": "Chattogram",
-        "new_cases_24h": 4,
+        "new_cases_24h": 11,
         "currently_admitted": 13,
-        "total_admitted": 555,
+        "total_admitted": 578,
         "total_deaths": 0
       },
       {
         "district": "Brahmanbaria",
         "division": "Chattogram",
-        "new_cases_24h": 11,
+        "new_cases_24h": 12,
         "currently_admitted": 24,
-        "total_admitted": 819,
+        "total_admitted": 844,
         "total_deaths": 0
       },
       {
         "district": "Khulna",
         "division": "Khulna",
-        "new_cases_24h": 85,
-        "currently_admitted": 264,
-        "total_admitted": 8659,
-        "total_deaths": 31
+        "new_cases_24h": 53,
+        "currently_admitted": 271,
+        "total_admitted": 8785,
+        "total_deaths": 32
       },
       {
         "district": "Bagerhat",
         "division": "Khulna",
-        "new_cases_24h": 27,
-        "currently_admitted": 147,
-        "total_admitted": 2925,
+        "new_cases_24h": 11,
+        "currently_admitted": 158,
+        "total_admitted": 2943,
         "total_deaths": 7
       },
       {
         "district": "Satkhira",
         "division": "Khulna",
-        "new_cases_24h": 5,
-        "currently_admitted": 42,
-        "total_admitted": 829,
+        "new_cases_24h": 9,
+        "currently_admitted": 36,
+        "total_admitted": 841,
         "total_deaths": 0
       },
       {
         "district": "Jashore",
         "division": "Khulna",
-        "new_cases_24h": 21,
+        "new_cases_24h": 32,
         "currently_admitted": 93,
-        "total_admitted": 2350,
+        "total_admitted": 2411,
         "total_deaths": 2
       },
       {
         "district": "Jhenaidah",
         "division": "Khulna",
-        "new_cases_24h": 0,
-        "currently_admitted": 47,
-        "total_admitted": 854,
+        "new_cases_24h": 23,
+        "currently_admitted": 58,
+        "total_admitted": 877,
         "total_deaths": 2
       },
       {
         "district": "Magura",
         "division": "Khulna",
-        "new_cases_24h": 0,
-        "currently_admitted": 24,
-        "total_admitted": 771,
+        "new_cases_24h": 14,
+        "currently_admitted": 25,
+        "total_admitted": 785,
         "total_deaths": 0
       },
       {
         "district": "Narail",
         "division": "Khulna",
-        "new_cases_24h": 9,
-        "currently_admitted": 22,
-        "total_admitted": 833,
+        "new_cases_24h": 1,
+        "currently_admitted": 17,
+        "total_admitted": 835,
         "total_deaths": 0
       },
       {
         "district": "Kushtia",
         "division": "Khulna",
-        "new_cases_24h": 0,
-        "currently_admitted": 56,
-        "total_admitted": 884,
+        "new_cases_24h": 7,
+        "currently_admitted": 47,
+        "total_admitted": 908,
         "total_deaths": 1
       },
       {
         "district": "Chuadanga",
         "division": "Khulna",
-        "new_cases_24h": 0,
-        "currently_admitted": 9,
-        "total_admitted": 320,
+        "new_cases_24h": 2,
+        "currently_admitted": 6,
+        "total_admitted": 327,
         "total_deaths": 3
       },
       {
         "district": "Meherpur",
         "division": "Khulna",
-        "new_cases_24h": 7,
-        "currently_admitted": 40,
-        "total_admitted": 601,
+        "new_cases_24h": 14,
+        "currently_admitted": 47,
+        "total_admitted": 623,
         "total_deaths": 1
       },
       {
         "district": "Rajshahi",
         "division": "Rajshahi",
-        "new_cases_24h": 0,
-        "currently_admitted": 5,
-        "total_admitted": 397,
+        "new_cases_24h": 6,
+        "currently_admitted": 9,
+        "total_admitted": 403,
         "total_deaths": 0
       },
       {
         "district": "Chapainawabganj",
         "division": "Rajshahi",
-        "new_cases_24h": 17,
-        "currently_admitted": 98,
-        "total_admitted": 3097,
+        "new_cases_24h": 50,
+        "currently_admitted": 112,
+        "total_admitted": 3198,
         "total_deaths": 3
       },
       {
         "district": "Naogaon",
         "division": "Rajshahi",
-        "new_cases_24h": 9,
-        "currently_admitted": 25,
-        "total_admitted": 612,
+        "new_cases_24h": 10,
+        "currently_admitted": 31,
+        "total_admitted": 626,
         "total_deaths": 1
       },
       {
         "district": "Natore",
         "division": "Rajshahi",
-        "new_cases_24h": 9,
-        "currently_admitted": 18,
-        "total_admitted": 416,
+        "new_cases_24h": 7,
+        "currently_admitted": 20,
+        "total_admitted": 423,
         "total_deaths": 0
       },
       {
         "district": "Joypurhat",
         "division": "Rajshahi",
-        "new_cases_24h": 0,
-        "currently_admitted": 15,
-        "total_admitted": 217,
+        "new_cases_24h": 5,
+        "currently_admitted": 16,
+        "total_admitted": 225,
         "total_deaths": 0
       },
       {
         "district": "Bogura",
         "division": "Rajshahi",
-        "new_cases_24h": 12,
-        "currently_admitted": 70,
-        "total_admitted": 1141,
+        "new_cases_24h": 33,
+        "currently_admitted": 83,
+        "total_admitted": 1189,
         "total_deaths": 0
       },
       {
         "district": "Sirajganj",
         "division": "Rajshahi",
-        "new_cases_24h": 19,
+        "new_cases_24h": 27,
         "currently_admitted": 72,
-        "total_admitted": 1940,
+        "total_admitted": 1967,
         "total_deaths": 1
       },
       {
         "district": "Pabna",
         "division": "Rajshahi",
-        "new_cases_24h": 4,
+        "new_cases_24h": 14,
         "currently_admitted": 80,
-        "total_admitted": 892,
-        "total_deaths": 0
+        "total_admitted": 906,
+        "total_deaths": 1
       },
       {
         "district": "Rangpur",
         "division": "Rangpur",
-        "new_cases_24h": 17,
+        "new_cases_24h": 10,
         "currently_admitted": 16,
-        "total_admitted": 795,
+        "total_admitted": 822,
         "total_deaths": 0
       },
       {
@@ -452,15 +452,15 @@
         "division": "Rangpur",
         "new_cases_24h": 0,
         "currently_admitted": 16,
-        "total_admitted": 467,
+        "total_admitted": 479,
         "total_deaths": 0
       },
       {
         "district": "Kurigram",
         "division": "Rangpur",
-        "new_cases_24h": 0,
-        "currently_admitted": 23,
-        "total_admitted": 410,
+        "new_cases_24h": 9,
+        "currently_admitted": 19,
+        "total_admitted": 419,
         "total_deaths": 2
       },
       {
@@ -468,119 +468,119 @@
         "division": "Rangpur",
         "new_cases_24h": 0,
         "currently_admitted": 26,
-        "total_admitted": 558,
+        "total_admitted": 574,
         "total_deaths": 0
       },
       {
         "district": "Dinajpur",
         "division": "Rangpur",
-        "new_cases_24h": 19,
-        "currently_admitted": 26,
+        "new_cases_24h": 0,
+        "currently_admitted": 24,
         "total_admitted": 372,
         "total_deaths": 0
       },
       {
         "district": "Gaibandha",
         "division": "Rangpur",
-        "new_cases_24h": 19,
+        "new_cases_24h": 8,
         "currently_admitted": 22,
-        "total_admitted": 753,
+        "total_admitted": 765,
         "total_deaths": 0
       },
       {
         "district": "Thakurgaon",
         "division": "Rangpur",
-        "new_cases_24h": 0,
+        "new_cases_24h": 5,
         "currently_admitted": 13,
-        "total_admitted": 460,
+        "total_admitted": 465,
         "total_deaths": 1
       },
       {
         "district": "Panchagarh",
         "division": "Rangpur",
-        "new_cases_24h": 0,
+        "new_cases_24h": 16,
         "currently_admitted": 17,
-        "total_admitted": 218,
+        "total_admitted": 245,
         "total_deaths": 0
       },
       {
         "district": "Barishal",
         "division": "Barishal",
-        "new_cases_24h": 16,
-        "currently_admitted": 68,
-        "total_admitted": 1979,
+        "new_cases_24h": 28,
+        "currently_admitted": 80,
+        "total_admitted": 2029,
         "total_deaths": 0
       },
       {
         "district": "Patuakhali",
         "division": "Barishal",
-        "new_cases_24h": 27,
-        "currently_admitted": 132,
-        "total_admitted": 3026,
+        "new_cases_24h": 53,
+        "currently_admitted": 134,
+        "total_admitted": 3120,
         "total_deaths": 2
       },
       {
         "district": "Bhola",
         "division": "Barishal",
-        "new_cases_24h": 7,
+        "new_cases_24h": 8,
         "currently_admitted": 29,
-        "total_admitted": 1287,
+        "total_admitted": 1308,
         "total_deaths": 0
       },
       {
         "district": "Pirojpur",
         "division": "Barishal",
-        "new_cases_24h": 27,
-        "currently_admitted": 190,
-        "total_admitted": 5104,
+        "new_cases_24h": 49,
+        "currently_admitted": 150,
+        "total_admitted": 5226,
         "total_deaths": 1
       },
       {
         "district": "Barguna",
         "division": "Barishal",
-        "new_cases_24h": 29,
-        "currently_admitted": 109,
-        "total_admitted": 2715,
+        "new_cases_24h": 27,
+        "currently_admitted": 108,
+        "total_admitted": 2768,
         "total_deaths": 0
       },
       {
         "district": "Jhalokati",
         "division": "Barishal",
-        "new_cases_24h": 5,
-        "currently_admitted": 52,
-        "total_admitted": 2711,
+        "new_cases_24h": 12,
+        "currently_admitted": 24,
+        "total_admitted": 2735,
         "total_deaths": 1
       },
       {
         "district": "Sylhet",
         "division": "Sylhet",
         "new_cases_24h": 2,
-        "currently_admitted": 8,
-        "total_admitted": 182,
+        "currently_admitted": 7,
+        "total_admitted": 187,
         "total_deaths": 3
       },
       {
         "district": "Sunamganj",
         "division": "Sylhet",
-        "new_cases_24h": 0,
-        "currently_admitted": 7,
-        "total_admitted": 150,
+        "new_cases_24h": 4,
+        "currently_admitted": 11,
+        "total_admitted": 160,
         "total_deaths": 0
       },
       {
         "district": "Habiganj",
         "division": "Sylhet",
-        "new_cases_24h": 1,
-        "currently_admitted": 18,
-        "total_admitted": 346,
+        "new_cases_24h": 4,
+        "currently_admitted": 12,
+        "total_admitted": 353,
         "total_deaths": 0
       },
       {
         "district": "Moulvibazar",
         "division": "Sylhet",
-        "new_cases_24h": 0,
+        "new_cases_24h": 1,
         "currently_admitted": 1,
-        "total_admitted": 47,
+        "total_admitted": 48,
         "total_deaths": 0
       }
     ]
