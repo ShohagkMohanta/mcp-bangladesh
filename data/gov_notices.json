@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 23:53:41 UTC",
+  "updated_at": "2026-11-16 05:51:30 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -8,7 +8,7 @@
       "agency_name": "Directorate of Secondary & Higher Education",
       "title": "দেশের প্রত্যেকটি শিক্ষা প্রতিষ্ঠানে ফুটবল, ক্রিকেট, দাবা, মার্শাল আর্ট, ভলিবল, ব্যাডমিন্টন, অ্যাথলেটিক্স, সাঁতার, টেবিল টেনিস ও কাবাডিসহ অন্যান্য খেলা বার্ষিক একাডেমিক ক্যালেন্ডারের সাথে সামঞ্জস্য রেখে সারা বছরব্যাপী আয়ো",
       "published_date": "15-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/dfa54522-6558-4a4b-b617-64db2b192bbb.pdf"
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/270af5bf-2371-4d1f-96ae-f3dec2022dc7.pdf"
     },
     {
       "agency_code": "DSHE",
@@ -118,6 +118,13 @@
     {
       "agency_code": "MOF",
       "agency_name": "Ministry of Finance",
+      "title": "বাসা বরাদ্দের নোটিশ।",
+      "published_date": "16-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/2646cdf3-cab4-437b-b5cc-6e456788b26b.pdf"
+    },
+    {
+      "agency_code": "MOF",
+      "agency_name": "Ministry of Finance",
       "title": "২০২৬-২৭ অর্থবছরের সংশোধিত বাজেট প্রাক্কলন (পরিচালন ও উন্নয়ন) প্রণয়ন।",
       "published_date": "12-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/5449592f-670f-4684-89a0-e7ce92cb6ac8.pdf"
@@ -163,13 +170,6 @@
       "title": "৪২ তম Budget Management Specialist (BMS) শীর্ষক প্রশিক্ষণ কোর্সে অংশগ্রহণের জন্য কর্মকর্তা মনোনয়ন।",
       "published_date": "09-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/c12fbf9c-3a3e-4133-af49-40808589465f.pdf"
-    },
-    {
-      "agency_code": "MOF",
-      "agency_name": "Ministry of Finance",
-      "title": "অর্থ বিভাগের খালি বাসা বরাদ্দ সংক্রান্ত নোটিশ",
-      "published_date": "09-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/e1ac813c-2fe0-40d2-9d41-5949632fb62a.pdf"
     },
     {
       "agency_code": "BPSC",
@@ -230,6 +230,20 @@
     {
       "agency_code": "PLANDIV",
       "agency_name": "Planning Division",
+      "title": "আন্তঃমন্ত্রণালয় প্রোগ্রামিং কমিটির সভার নোটিশ (১৬২)",
+      "published_date": "16-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/0422dca3-8b6b-476f-9e8c-4c15c1463b94.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "BCDP ওয়ার্কিং গ্রুপ-৪ এর ৪র্থ সভার নোটিশ (১১৮)",
+      "published_date": "16-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/da169c50-e089-4443-8f2b-2821fc77be5e.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
       "title": "বার্ষিক ক্রয়পরিকল্পনা , পরামর্শসেবার কর্মপরিধি (টিওআর), আবেদনের শর্তাবলী, আবেদন/প্রস্তাব ফরম, আবেদনপত্রের নমুনা এবং ০২টি জাতীয় দৈনিক (বাংলা ও ইংরেজি) পত্রিকায় প্রকাশের জন্য আগ্রহব্যক্তকরণের অনুরোধ-সংবলিত বিজ্ঞাপন (১১১)",
       "published_date": "15-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/6768a716-8741-45ea-8fbf-65ca820f8373.pdf"
@@ -268,20 +282,6 @@
       "title": "ইনোভেশন টিমের অফিস আদেশ(৬১২)",
       "published_date": "11-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/3e728319-2d6b-4ef4-a356-bcc73fe3df9b.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "নিয়োগপত্র-অফিস সহায়ক(৬৭৩)",
-      "published_date": "10-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/edb738f4-0912-4f06-b890-7e367f4b65d0.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "নিয়োগপত্র-অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক(৬৭২)",
-      "published_date": "10-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/b8950a74-238f-4b95-a3cf-8dd3002a0718.pdf"
     },
     {
       "agency_code": "DPE",
