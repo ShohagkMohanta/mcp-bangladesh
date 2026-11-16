@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-11-16 05:51:30 UTC",
+  "updated_at": "2026-11-16 15:24:50 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
+    {
+      "agency_code": "DSHE",
+      "agency_name": "Directorate of Secondary & Higher Education",
+      "title": "মাধ্যমিক ও উচ্চ শিক্ষা অধিদপ্তরাধীন শিক্ষা প্রতিষ্ঠানের এমপিওভুক্ত শিক্ষক-কর্মচারীদের নভেম্বর-২০২৬ মাসের এমপিও এর অর্থ EFT-তে প্রেরণের লক্ষ্যে প্রতিষ্ঠান প্রধান কর্তৃক বিল সাবমিট সংক্রান্ত।",
+      "published_date": "16-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/f07524a6-0c83-464f-8031-8a0102c6a713.pdf"
+    },
+    {
+      "agency_code": "DSHE",
+      "agency_name": "Directorate of Secondary & Higher Education",
+      "title": "মাধ্যমিক ও উচ্চ শিক্ষা অধিদপ্তরের অধীনস্থ ২০১৮ বিধিতে জাতীয়করণকৃত সকল সরকারি কলেজ ও স্কুল এন্ড কলেজসমূহের অধ্যক্ষ এবং উপাধ্যক্ষের কর্মরত/শূন্য পদের তথ্য প্রেরণ প্রসঙ্গে।",
+      "published_date": "16-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/7ca67f42-d7b8-486b-a2a4-652028d67482.pdf"
+    },
     {
       "agency_code": "DSHE",
       "agency_name": "Directorate of Secondary & Higher Education",
@@ -44,20 +58,6 @@
       "title": "Review of Multimedia Classrooms (MMCs) and Need Assessment for ICT Readiness and AI Literacy for Secondary School and Madrasah Teacher in Bangladesh.",
       "published_date": "04-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/dd41ddd9-86cd-40e3-9da3-eae7c2f709bd.pdf"
-    },
-    {
-      "agency_code": "DSHE",
-      "agency_name": "Directorate of Secondary & Higher Education",
-      "title": "মাধ্যমিক ও উচ্চ শিক্ষা অধিদপ্তরে কর্মরত সকল কর্মকর্তা, বিশেষ ভারপ্রাপ্ত কর্মকর্তা (ওএসডি) এবং ইন-সিটু হিসেবে কর্মরত সহ সকল কর্মকর্তাকে জাতীয় বেতন স্কেল-২০২৬ অনুযায়ী জুলাই/২০২৬-সেপ্টেম্বর/২০২৬ পর্যন্ত বকেয়া বিলের হার্ডকপি",
-      "published_date": "04-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/498530bc-2e24-4a5c-bddd-f2de6346283f.pdf"
-    },
-    {
-      "agency_code": "DSHE",
-      "agency_name": "Directorate of Secondary & Higher Education",
-      "title": "আগামী ৭ নভেম্বর জাতীয় বিপ্লব ও সংহতি দিবস উদ্যাপন উপলক্ষ্যে জাতীয় পতাকা উত্তোলন করা প্রসঙ্গে।",
-      "published_date": "03-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/956e88ff-1cc6-44ae-81b6-e90d3f33a1a9.pdf"
     },
     {
       "agency_code": "SHED",
@@ -230,6 +230,13 @@
     {
       "agency_code": "PLANDIV",
       "agency_name": "Planning Division",
+      "title": "এসপিইসি সভার নোটিশ - শিল্প ও শক্তি বিভাগ (১৮)",
+      "published_date": "16-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/ddf0a197-04ca-4a49-9c6c-2e29e0af5b86.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
       "title": "আন্তঃমন্ত্রণালয় প্রোগ্রামিং কমিটির সভার নোটিশ (১৬২)",
       "published_date": "16-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/0422dca3-8b6b-476f-9e8c-4c15c1463b94.pdf"
@@ -275,13 +282,6 @@
       "title": "পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (৯৩)",
       "published_date": "12-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/318fb4f8-4b0f-40c7-aef1-aefce0d15f1d.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "ইনোভেশন টিমের অফিস আদেশ(৬১২)",
-      "published_date": "11-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/3e728319-2d6b-4ef4-a356-bcc73fe3df9b.pdf"
     },
     {
       "agency_code": "DPE",
