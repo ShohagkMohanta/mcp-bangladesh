@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-11-17 00:06:58 UTC",
+  "updated_at": "2026-11-17 10:28:58 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
+    {
+      "agency_code": "DSHE",
+      "agency_name": "Directorate of Secondary & Higher Education",
+      "title": "মাধ্যমিক ও উচ্চ শিক্ষা অধিদপ্তরের আওতাধীন অফিস-সরকারি শিক্ষা প্রতিষ্ঠানে রাজস্বখাতে কর্মরত সকল পর্যায়ের নন-ক্যাডার কর্মকর্তা-কর্মচারীদের (শিক্ষক ব্যতিত) পিডিএস/তথ্যাদি হালনাগাদকরণ সংক্রান্ত।",
+      "published_date": "17-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/89c8ea58-8965-4314-90e1-9dbc7ae1c9f7.pdf"
+    },
+    {
+      "agency_code": "DSHE",
+      "agency_name": "Directorate of Secondary & Higher Education",
+      "title": "রাজস্ব খাতভুক্ত বৃত্তির তথ্য এন্ট্রি ও সংশোধনের সময় বর্ধিতকরণ ও নির্দেশনা প্রসঙ্গে।",
+      "published_date": "17-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/30e2b7c8-9e41-4697-8c96-3d821da69ee3.pdf"
+    },
     {
       "agency_code": "DSHE",
       "agency_name": "Directorate of Secondary & Higher Education",
@@ -44,20 +58,6 @@
       "title": "অর্থবছর ওয়ারী অনিষ্পন্ন অডিট আপতির ব্রডশীট জবাব প্রেরণ",
       "published_date": "08-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/23d1da3a-875c-4ba7-90d3-d77058909cad.pdf"
-    },
-    {
-      "agency_code": "DSHE",
-      "agency_name": "Directorate of Secondary & Higher Education",
-      "title": "আর্ট বাংলাদেশ এর ব্যানারে ট্যালেন্ট স্পোর্টস লিমিটেড কর্তৃক পরিচালিত দেশব্যাপী আর্ট এক্সিবিশন মাধ্যমিক ও উচ্চমাধ্যমিক পর্যায়ে বাস্তবায়ন প্রসঙ্গে।",
-      "published_date": "08-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/c7019f32-6826-4753-9e58-ffe47bd94a23.pdf"
-    },
-    {
-      "agency_code": "DSHE",
-      "agency_name": "Directorate of Secondary & Higher Education",
-      "title": "Review of Multimedia Classrooms (MMCs) and Need Assessment for ICT Readiness and AI Literacy for Secondary School and Madrasah Teacher in Bangladesh.",
-      "published_date": "04-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/dd41ddd9-86cd-40e3-9da3-eae7c2f709bd.pdf"
     },
     {
       "agency_code": "SHED",
@@ -230,6 +230,27 @@
     {
       "agency_code": "PLANDIV",
       "agency_name": "Planning Division",
+      "title": "পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (১৯)",
+      "published_date": "17-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/81d9fe57-80ee-46e4-b3f4-cd5763f1d0dd.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "দক্ষতা নবায়ন প্রশিক্ষণ কোর্সের ৪র্থ ব্যাচে কর্মকর্তা/কর্মচারী মনোনয়ন (৩১৫)",
+      "published_date": "17-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/932a53ba-b6c7-4c07-afed-5b5e9fdce4f4.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "আন্তঃমন্ত্রণালয় প্রোগ্রামিং কমিটির সভার তারিখ ও ভেন্যু পরিবর্তন (১৬৭)",
+      "published_date": "17-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/978333c4-02da-4bfc-a797-4973edd894eb.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
       "title": "এসপিইসি সভার নোটিশ - শিল্প ও শক্তি বিভাগ (১৮)",
       "published_date": "16-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/ddf0a197-04ca-4a49-9c6c-2e29e0af5b86.pdf"
@@ -261,27 +282,6 @@
       "title": "দক্ষতা নবায়ন প্রশিক্ষণ কোর্সের ৩য় ব্যাচে কর্মকর্তা/কর্মচারী মনোনয়ন (৩১১)",
       "published_date": "12-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/50264cb4-7949-4557-94a0-2292744c8034.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (৩৪২)",
-      "published_date": "12-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/98f1a8bf-3a67-4b20-833d-a6ecc304650f.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (৩৪১)",
-      "published_date": "12-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/ee06142b-8c05-4b71-b9cc-d9b97c413b3b.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (৯৩)",
-      "published_date": "12-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/318fb4f8-4b0f-40c7-aef1-aefce0d15f1d.pdf"
     },
     {
       "agency_code": "DPE",
