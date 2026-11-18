@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-18 03:31:23 UTC",
+  "updated_at": "2026-11-18 12:52:33 UTC",
   "source": "Bangladesh Power Development Board (BPDB)",
   "sampled_plants_count": 191,
   "sampled_day_peak_mw": 29105.0,
-  "sampled_evening_peak_mw": 24876.7,
+  "sampled_evening_peak_mw": 25064.9,
   "plants": [
     {
       "serial": 1,
@@ -269,7 +269,7 @@
       "plant_name": "Karnaphuli Hydro PP Unit-1,2,3,4,5",
       "installed_or_derated_mw": 230.0,
       "day_peak_mw": 230.0,
-      "evening_peak_mw": 96.0
+      "evening_peak_mw": 46.0
     },
     {
       "serial": 2,
@@ -360,7 +360,7 @@
       "plant_name": "Malancha, Ctg.EPZ (United)",
       "installed_or_derated_mw": 0.0,
       "day_peak_mw": 0.0,
-      "evening_peak_mw": 42.0
+      "evening_peak_mw": 30.0
     },
     {
       "serial": 15,
@@ -486,7 +486,7 @@
       "plant_name": "Titas 50 MW PP (Dautkandi)",
       "installed_or_derated_mw": 52.0,
       "day_peak_mw": 52.0,
-      "evening_peak_mw": 32.0
+      "evening_peak_mw": 30.0
     },
     {
       "serial": 10,
@@ -668,7 +668,7 @@
       "plant_name": "Sylhet 225MW CCPP",
       "installed_or_derated_mw": 231.0,
       "day_peak_mw": 231.0,
-      "evening_peak_mw": 0.0
+      "evening_peak_mw": 20.0
     },
     {
       "serial": 8,
@@ -710,7 +710,7 @@
       "plant_name": "Shahjibazar 100 MW GTPP",
       "installed_or_derated_mw": 100.0,
       "day_peak_mw": 100.0,
-      "evening_peak_mw": 83.0
+      "evening_peak_mw": 81.0
     },
     {
       "serial": 14,
@@ -787,7 +787,7 @@
       "plant_name": "Maitree Super Thermal 1320 MW PP (Unit-1)",
       "installed_or_derated_mw": 1234.0,
       "day_peak_mw": 1148.0,
-      "evening_peak_mw": 990.0
+      "evening_peak_mw": 1234.2
     },
     {
       "serial": 10,
@@ -836,7 +836,7 @@
       "plant_name": "Bhola 225 MW CCPP",
       "installed_or_derated_mw": 194.0,
       "day_peak_mw": 194.0,
-      "evening_peak_mw": 120.0
+      "evening_peak_mw": 110.0
     },
     {
       "serial": 4,

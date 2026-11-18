@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-18 03:31:15 UTC",
+  "updated_at": "2026-11-18 12:52:25 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
+    {
+      "agency_code": "DSHE",
+      "agency_name": "Directorate of Secondary & Higher Education",
+      "title": "গ্রেড-৯ (নন-ক্যাডার) থেকে গ্রেড-২০ ভুক্ত পদের কর্মকর্তা-কর্মচারীদের সৃষ্ট পদ, কর্মরত পদ ও শূন্যপদের হালনাগাদ তথ্যাদি প্রেরণ সংক্রান্ত (শিক্ষক ব্যতীত)",
+      "published_date": "18-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/d8639c18-565f-46ce-ad95-03763c8ccb08.pdf"
+    },
     {
       "agency_code": "DSHE",
       "agency_name": "Directorate of Secondary & Higher Education",
@@ -51,13 +58,6 @@
       "title": "পাকিস্তানের বিভিন্ন প্রতিষ্ঠানে বাংলাদেশি শিক্ষার্থীদের জন্য এমবিবিএস (২০টি) এবং বিডিএস (০৫টি) আসনে ভর্তি সংক্রান্ত।",
       "published_date": "09-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/1e4b6e56-bd03-4141-bed0-acfeb8fe0971.pdf"
-    },
-    {
-      "agency_code": "DSHE",
-      "agency_name": "Directorate of Secondary & Higher Education",
-      "title": "অর্থবছর ওয়ারী অনিষ্পন্ন অডিট আপতির ব্রডশীট জবাব প্রেরণ",
-      "published_date": "08-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dshe/2026/10/23d1da3a-875c-4ba7-90d3-d77058909cad.pdf"
     },
     {
       "agency_code": "SHED",
@@ -118,6 +118,13 @@
     {
       "agency_code": "MOF",
       "agency_name": "Ministry of Finance",
+      "title": "CALL FOR PAPERS (IPF Journal of Economics and Finance)",
+      "published_date": "18-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/dd59db22-6d84-4d20-83de-ad45b0af5ece.pdf"
+    },
+    {
+      "agency_code": "MOF",
+      "agency_name": "Ministry of Finance",
       "title": "বাসা বরাদ্দের নোটিশ।",
       "published_date": "16-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/2646cdf3-cab4-437b-b5cc-6e456788b26b.pdf"
@@ -163,13 +170,6 @@
       "title": "বাংলাদেশ সরকারি কর্ম কমিশন কর্তৃক \"অডিটর\" ও \"এসএএস\" পদে সাময়িকভাবে মনোনীত প্রার্থীদের আবেদনপত্রের সাথে দাখিলকৃত সনদপত্র ও অন্যান্য কাগজপত্রাদির মূলকপিসহ উপস্থিত থাকা সংক্রান্ত।",
       "published_date": "09-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/856b2a18-46e9-407b-8a7c-1f2137112846.pdf"
-    },
-    {
-      "agency_code": "MOF",
-      "agency_name": "Ministry of Finance",
-      "title": "৪২ তম Budget Management Specialist (BMS) শীর্ষক প্রশিক্ষণ কোর্সে অংশগ্রহণের জন্য কর্মকর্তা মনোনয়ন।",
-      "published_date": "09-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/c12fbf9c-3a3e-4133-af49-40808589465f.pdf"
     },
     {
       "agency_code": "BPSC",

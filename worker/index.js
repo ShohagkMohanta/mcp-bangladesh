@@ -1,4 +1,5 @@
 const REPO_RAW_BASE = "https://raw.githubusercontent.com/ShohagkMohanta/mcp-bangladesh/main/data";
+const OG_IMAGE_URL = "https://shohag.one/wp-content/uploads/2026/11/mcp-bangladesh-cover.png";
 
 const FILES = {
   health: "dengue_live.json",
@@ -356,6 +357,8 @@ function indexPage(origin) {
           "Bangladesh First MCP Server"
         ],
         "url": origin,
+        "image": OG_IMAGE_URL,
+        "datePublished": "2026-11-11T00:00:00+06:00",
         "documentation": "https://mcp.shohag.one/llms.txt",
         "applicationCategory": "DeveloperApplication",
         "operatingSystem": "All",
@@ -392,6 +395,7 @@ function indexPage(origin) {
         "sameAs": [
           "https://shohag.one/",
           "https://github.com/ShohagkMohanta",
+          "https://www.linkedin.com/in/shohagkmohanta/",
           "https://www.facebook.com/ShohagkMohanta/"
         ]
       },
@@ -425,13 +429,31 @@ function indexPage(origin) {
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Bangladesh's First National Public Data MCP Server | mcp-bangladesh</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='50' fill='%2300593B'/><circle cx='41' cy='50' r='33' fill='%23FB2943'/></svg>">
   <meta name="description" content="mcp-bangladesh is Bangladesh's first national public data Model Context Protocol (MCP) server and free REST API. Connect Claude, ChatGPT, and Cursor to 8 live Bangladesh government datasets (rivers, power, health, weather, AQI, notices, economy, geography).">
   <meta name="keywords" content="mcp bangladesh server, bangladesh mcp server, bangladesh's mcp server, bangladesh first mcp server, mcp-bangladesh, model context protocol bangladesh, bangladesh public data api">
+  <meta name="author" content="Shohag Kumar Mohanta">
+  <meta name="publish_date" property="og:publish_date" content="2026-11-11T00:00:00+06:00">
+  <meta property="article:author" content="Shohag Kumar Mohanta">
+  <meta property="article:published_time" content="2026-11-11T00:00:00+06:00">
   <link rel="canonical" href="${origin}/">
+  <meta property="og:site_name" content="mcp-bangladesh">
   <meta property="og:title" content="Bangladesh's First National Public Data MCP Server | mcp-bangladesh">
   <meta property="og:description" content="Free, zero-auth remote MCP server (${origin}/mcp) and REST API combining 8 live Bangladesh government datasets for AI assistants and developers.">
   <meta property="og:url" content="${origin}/">
   <meta property="og:type" content="website">
+  <meta property="og:image" content="${OG_IMAGE_URL}">
+  <meta property="og:image:secure_url" content="${OG_IMAGE_URL}">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="mcp-bangladesh: Bangladesh's First National Public Data MCP Server and REST API">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@ShohagkMohanta">
+  <meta name="twitter:creator" content="@ShohagkMohanta">
+  <meta name="twitter:title" content="Bangladesh's First National Public Data MCP Server | mcp-bangladesh">
+  <meta name="twitter:description" content="Free, zero-auth remote MCP server (${origin}/mcp) and REST API combining 8 live Bangladesh government datasets for AI assistants and developers.">
+  <meta name="twitter:image" content="${OG_IMAGE_URL}">
   <script type="application/ld+json">${JSON.stringify(schema)}</script>
   <style>
     body { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; max-width: 820px; margin: 36px auto; padding: 0 16px; color: #111; line-height: 1.5; font-size: 14px; }
@@ -496,32 +518,36 @@ export default {
     }
 
     const url = new URL(request.url);
+    const origin = url.origin.replace(/^http:/, "https:");
     const path = url.pathname.replace(/\/+$/, "") || "/";
 
     if (path === "/favicon.ico") {
-      return new Response(null, { status: 204 });
+      return new Response(
+        `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50" fill="#00593B"/><circle cx="41" cy="50" r="33" fill="#FB2943"/></svg>`,
+        { headers: { "Content-Type": "image/svg+xml", "Cache-Control": "public, max-age=86400" } }
+      );
     }
 
     if (path === "/robots.txt" && request.method === "GET") {
-      return new Response(renderRobotsTxt(url.origin), {
+      return new Response(renderRobotsTxt(origin), {
         headers: { "Content-Type": "text/plain; charset=utf-8", ...CORS }
       });
     }
 
     if (path === "/sitemap.xml" && request.method === "GET") {
-      return new Response(renderSitemapXml(url.origin), {
+      return new Response(renderSitemapXml(origin), {
         headers: { "Content-Type": "application/xml; charset=utf-8", ...CORS }
       });
     }
 
     if ((path === "/llms.txt" || path === "/AGENTS.md") && request.method === "GET") {
-      return new Response(renderLlmsTxt(url.origin), {
+      return new Response(renderLlmsTxt(origin), {
         headers: { "Content-Type": "text/plain; charset=utf-8", ...CORS }
       });
     }
 
     if (path === "/" && request.method === "GET") {
-      return new Response(indexPage(url.origin), {
+      return new Response(indexPage(origin), {
         headers: { "Content-Type": "text/html; charset=utf-8", ...CORS }
       });
     }
@@ -594,79 +620,79 @@ export default {
         }
 
         if (method === "resources/list") {
-      return Response.json({
-        jsonrpc: "2.0",
-        id,
-        result: {
-          resources: [
-            { uri: `${url.origin}/api/health`, name: "dghs_health", description: "DGHS dengue cases, deaths, and measles division totals", mimeType: "application/json" },
-            { uri: `${url.origin}/api/rivers`, name: "ffwc_rivers", description: "FFWC water levels and danger thresholds across 44 stations", mimeType: "application/json" },
-            { uri: `${url.origin}/api/weather`, name: "bd_weather", description: "Temperature, humidity, wind, and daily rain across 15 districts", mimeType: "application/json" },
-            { uri: `${url.origin}/api/air`, name: "bd_air_quality", description: "US AQI, PM2.5, PM10, NO2, and ozone across 13 cities", mimeType: "application/json" },
-            { uri: `${url.origin}/api/notices`, name: "gov_notices", description: "Recent circulars from DSHE, SHED, MOF, BPSC, PLANDIV, and DPE", mimeType: "application/json" },
-            { uri: `${url.origin}/api/economy`, name: "bd_economy", description: "Bangladesh Bank USD/BDT rates, CPI inflation, and TCB prices", mimeType: "application/json" },
-            { uri: `${url.origin}/api/power`, name: "bpdb_power", description: "BPDB daily plant MW output for day peak and evening peak", mimeType: "application/json" },
-            { uri: `${url.origin}/api/catalog`, name: "bd_catalog", description: "Static catalog of 8 divisions, 64 districts, and 15 rivers", mimeType: "application/json" }
-          ]
-        }
-      }, { headers: CORS });
-    }
-
-    if (method === "resources/templates/list") {
-      return Response.json({
-        jsonrpc: "2.0",
-        id,
-        result: { resourceTemplates: [] }
-      }, { headers: CORS });
-    }
-
-    if (method === "prompts/list") {
-      return Response.json({
-        jsonrpc: "2.0",
-        id,
-        result: {
-          prompts: [
-            {
-              name: "bd_daily_briefing",
-              description: "Summarize current dengue stats, river flood status, weather, AQI, and power output in Bangladesh",
-              arguments: [
-                { name: "location", description: "Optional division or district name (e.g. Dhaka, Bogura)", required: false }
-              ]
-            },
-            {
-              name: "bd_flood_check",
-              description: "Check FFWC river danger levels and recent rainfall for a river basin or district",
-              arguments: [
-                { name: "query", description: "River, station, or district name (e.g. Jamuna, Sylhet)", required: false }
+          return Response.json({
+            jsonrpc: "2.0",
+            id,
+            result: {
+              resources: [
+                { uri: `${origin}/api/health`, name: "dghs_health", description: "DGHS dengue cases, deaths, and measles division totals", mimeType: "application/json" },
+                { uri: `${origin}/api/rivers`, name: "ffwc_rivers", description: "FFWC water levels and danger thresholds across 44 stations", mimeType: "application/json" },
+                { uri: `${origin}/api/weather`, name: "bd_weather", description: "Temperature, humidity, wind, and daily rain across 15 districts", mimeType: "application/json" },
+                { uri: `${origin}/api/air`, name: "bd_air_quality", description: "US AQI, PM2.5, PM10, NO2, and ozone across 13 cities", mimeType: "application/json" },
+                { uri: `${origin}/api/notices`, name: "gov_notices", description: "Recent circulars from DSHE, SHED, MOF, BPSC, PLANDIV, and DPE", mimeType: "application/json" },
+                { uri: `${origin}/api/economy`, name: "bd_economy", description: "Bangladesh Bank USD/BDT rates, CPI inflation, and TCB prices", mimeType: "application/json" },
+                { uri: `${origin}/api/power`, name: "bpdb_power", description: "BPDB daily plant MW output for day peak and evening peak", mimeType: "application/json" },
+                { uri: `${origin}/api/catalog`, name: "bd_catalog", description: "Static catalog of 8 divisions, 64 districts, and 15 rivers", mimeType: "application/json" }
               ]
             }
-          ]
+          }, { headers: CORS });
         }
-      }, { headers: CORS });
-    }
 
-    if (method === "prompts/get") {
-      const name = params && params.name;
-      const arg = (params && params.arguments && (params.arguments.location || params.arguments.query)) || "Bangladesh";
-      return Response.json({
-        jsonrpc: "2.0",
-        id,
-        result: {
-          description: `Live public data check for ${arg}`,
-          messages: [
-            {
-              role: "user",
-              content: {
-                type: "text",
-                text: name === "bd_flood_check"
-                  ? `Check FFWC river water levels and weather for ${arg} using get_river_water_levels and get_bd_weather, and highlight any stations near or above danger level.`
-                  : `Give a concise public data briefing for ${arg} using the mcp-bangladesh tools covering dengue cases, river levels, weather, air quality, and power generation.`
-              }
-            }
-          ]
+        if (method === "resources/templates/list") {
+          return Response.json({
+            jsonrpc: "2.0",
+            id,
+            result: { resourceTemplates: [] }
+          }, { headers: CORS });
         }
-      }, { headers: CORS });
-    }
+
+        if (method === "prompts/list") {
+          return Response.json({
+            jsonrpc: "2.0",
+            id,
+            result: {
+              prompts: [
+                {
+                  name: "bd_daily_briefing",
+                  description: "Summarize current dengue stats, river flood status, weather, AQI, and power output in Bangladesh",
+                  arguments: [
+                    { name: "location", description: "Optional division or district name (e.g. Dhaka, Bogura)", required: false }
+                  ]
+                },
+                {
+                  name: "bd_flood_check",
+                  description: "Check FFWC river danger levels and recent rainfall for a river basin or district",
+                  arguments: [
+                    { name: "query", description: "River, station, or district name (e.g. Jamuna, Sylhet)", required: false }
+                  ]
+                }
+              ]
+            }
+          }, { headers: CORS });
+        }
+
+        if (method === "prompts/get") {
+          const name = params && params.name;
+          const arg = (params && params.arguments && (params.arguments.location || params.arguments.query)) || "Bangladesh";
+          return Response.json({
+            jsonrpc: "2.0",
+            id,
+            result: {
+              description: `Live public data check for ${arg}`,
+              messages: [
+                {
+                  role: "user",
+                  content: {
+                    type: "text",
+                    text: name === "bd_flood_check"
+                      ? `Check FFWC river water levels and weather for ${arg} using get_river_water_levels and get_bd_weather, and highlight any stations near or above danger level.`
+                      : `Give a concise public data briefing for ${arg} using the mcp-bangladesh tools covering dengue cases, river levels, weather, air quality, and power generation.`
+                  }
+                }
+              ]
+            }
+          }, { headers: CORS });
+        }
 
         if (method === "tools/call") {
           try {
