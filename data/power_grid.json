@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-17 20:42:27 UTC",
+  "updated_at": "2026-11-18 03:31:23 UTC",
   "source": "Bangladesh Power Development Board (BPDB)",
   "sampled_plants_count": 191,
   "sampled_day_peak_mw": 29105.0,
-  "sampled_evening_peak_mw": 25108.9,
+  "sampled_evening_peak_mw": 24876.7,
   "plants": [
     {
       "serial": 1,
@@ -220,7 +220,7 @@
       "plant_name": "Manikgonj 35 Mw Solar PP (Inspect)",
       "installed_or_derated_mw": 35.0,
       "day_peak_mw": 35.0,
-      "evening_peak_mw": 25.0
+      "evening_peak_mw": 32.0
     },
     {
       "serial": 32,
@@ -353,7 +353,7 @@
       "plant_name": "Hathazari 100 MW Peaking pp",
       "installed_or_derated_mw": 98.0,
       "day_peak_mw": 98.0,
-      "evening_peak_mw": 0.0
+      "evening_peak_mw": 24.0
     },
     {
       "serial": 14,
@@ -668,7 +668,7 @@
       "plant_name": "Sylhet 225MW CCPP",
       "installed_or_derated_mw": 231.0,
       "day_peak_mw": 231.0,
-      "evening_peak_mw": 20.0
+      "evening_peak_mw": 0.0
     },
     {
       "serial": 8,
@@ -745,7 +745,7 @@
       "plant_name": "Faridpur 50 MW Peaking PP",
       "installed_or_derated_mw": 54.0,
       "day_peak_mw": 54.0,
-      "evening_peak_mw": 32.0
+      "evening_peak_mw": 33.0
     },
     {
       "serial": 4,
@@ -787,7 +787,7 @@
       "plant_name": "Maitree Super Thermal 1320 MW PP (Unit-1)",
       "installed_or_derated_mw": 1234.0,
       "day_peak_mw": 1148.0,
-      "evening_peak_mw": 1234.2
+      "evening_peak_mw": 990.0
     },
     {
       "serial": 10,
