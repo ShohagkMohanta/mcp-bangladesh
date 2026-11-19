@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-19 03:04:08 UTC",
+  "updated_at": "2026-11-19 12:43:59 UTC",
   "sources": [
     "Bangladesh Bank (bb.org.bd)",
     "Trading Corporation of Bangladesh (tcb.gov.bd)"
   ],
   "usd_bdt_reference_rates": [
+    {
+      "date": "19 November, 2026",
+      "rate_11am_bdt": "124.7007",
+      "rate_5pm_bdt": "124.6598"
+    },
+    {
+      "date": "18 November, 2026",
+      "rate_11am_bdt": "124.9831",
+      "rate_5pm_bdt": "124.8171"
+    },
     {
       "date": "17 November, 2026",
       "rate_11am_bdt": "124.6824",
@@ -19,16 +29,6 @@
       "date": "15 November, 2026",
       "rate_11am_bdt": "124.9900",
       "rate_5pm_bdt": "124.7123"
-    },
-    {
-      "date": "12 November, 2026",
-      "rate_11am_bdt": "124.7748",
-      "rate_5pm_bdt": "124.8614"
-    },
-    {
-      "date": "11 November, 2026",
-      "rate_11am_bdt": "124.6021",
-      "rate_5pm_bdt": "124.6263"
     }
   ],
   "cpi_inflation": [
@@ -49,6 +49,11 @@
   ],
   "tcb_daily_price_reports": [
     {
+      "date": "19-11-2026",
+      "title": "Dhaka Daily Retail Market Price Bulletin (TCB)",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tcb/2026/10/a6dd9fc1-c1a1-4719-be7f-fa66cffd4296.xlsx"
+    },
+    {
       "date": "18-11-2026",
       "title": "Dhaka Daily Retail Market Price Bulletin (TCB)",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tcb/2026/10/af6d3f10-3284-4bc5-8e1e-561f49a6c22b.xlsx"
@@ -67,11 +72,6 @@
       "date": "15-11-2026",
       "title": "Dhaka Daily Retail Market Price Bulletin (TCB)",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tcb/2026/10/d5c5831d-d022-40b2-8b02-162e725cb2ea.xlsx"
-    },
-    {
-      "date": "14-11-2026",
-      "title": "Dhaka Daily Retail Market Price Bulletin (TCB)",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tcb/2026/10/616ab444-d489-4124-8291-5ab14ae0b556.xlsx"
     }
   ]
 }

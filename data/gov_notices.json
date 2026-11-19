@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 03:04:04 UTC",
+  "updated_at": "2026-11-19 12:43:54 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -230,6 +230,27 @@
     {
       "agency_code": "PLANDIV",
       "agency_name": "Planning Division",
+      "title": "পরিকল্পনা বিভাগের লাইব্রেরীয়ান এর ফিডার পদ ক্যাটালগার পদে কর্মরত কর্মচারীগণের খসড়া জ্যেষ্ঠতার তালিকা চূড়ান্তকরণ (৭০১)",
+      "published_date": "19-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/595bb194-d694-48dc-a202-c3c80d5cc355.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "পরিকল্পনা বিভাগ ও পরিকল্পনা কমিশনের সকল কর্মকর্তা/ কর্মচারীদের ডিজিটাল হাজিরা নিশ্চিতকরণ প্রসঙ্গে (৫৩)",
+      "published_date": "19-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/0fa40790-b797-4ad2-9ddd-a25288424070.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "২য় প্রকল্প মূল্যায়ন কমিটি (পিইসি) সভার নোটিশ - শিল্প ও শক্তি বিভাগ (১৮৯)",
+      "published_date": "19-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/2692a0e7-0a46-4d42-894d-70ec32d0f7e8.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
       "title": "পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (১৯)",
       "published_date": "17-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/81d9fe57-80ee-46e4-b3f4-cd5763f1d0dd.pdf"
@@ -261,27 +282,6 @@
       "title": "আন্তঃমন্ত্রণালয় প্রোগ্রামিং কমিটির সভার নোটিশ (১৬২)",
       "published_date": "16-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/0422dca3-8b6b-476f-9e8c-4c15c1463b94.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "BCDP ওয়ার্কিং গ্রুপ-৪ এর ৪র্থ সভার নোটিশ (১১৮)",
-      "published_date": "16-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/da169c50-e089-4443-8f2b-2821fc77be5e.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "বার্ষিক ক্রয়পরিকল্পনা , পরামর্শসেবার কর্মপরিধি (টিওআর), আবেদনের শর্তাবলী, আবেদন/প্রস্তাব ফরম, আবেদনপত্রের নমুনা এবং ০২টি জাতীয় দৈনিক (বাংলা ও ইংরেজি) পত্রিকায় প্রকাশের জন্য আগ্রহব্যক্তকরণের অনুরোধ-সংবলিত বিজ্ঞাপন (১১১)",
-      "published_date": "15-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/6768a716-8741-45ea-8fbf-65ca820f8373.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "দক্ষতা নবায়ন প্রশিক্ষণ কোর্সের ৩য় ব্যাচে কর্মকর্তা/কর্মচারী মনোনয়ন (৩১১)",
-      "published_date": "12-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/50264cb4-7949-4557-94a0-2292744c8034.pdf"
     },
     {
       "agency_code": "DPE",
