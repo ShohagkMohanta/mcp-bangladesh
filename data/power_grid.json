@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-21 22:58:24 UTC",
+  "updated_at": "2026-11-22 06:05:53 UTC",
   "source": "Bangladesh Power Development Board (BPDB)",
   "sampled_plants_count": 191,
   "sampled_day_peak_mw": 29105.0,
-  "sampled_evening_peak_mw": 25064.9,
+  "sampled_evening_peak_mw": 24715.9,
   "plants": [
     {
       "serial": 1,
@@ -164,7 +164,7 @@
       "plant_name": "Kodda 150 MW Power Plant",
       "installed_or_derated_mw": 149.0,
       "day_peak_mw": 149.0,
-      "evening_peak_mw": 133.0
+      "evening_peak_mw": 149.0
     },
     {
       "serial": 24,
@@ -269,7 +269,7 @@
       "plant_name": "Karnaphuli Hydro PP Unit-1,2,3,4,5",
       "installed_or_derated_mw": 230.0,
       "day_peak_mw": 230.0,
-      "evening_peak_mw": 46.0
+      "evening_peak_mw": 40.0
     },
     {
       "serial": 2,
@@ -486,7 +486,7 @@
       "plant_name": "Titas 50 MW PP (Dautkandi)",
       "installed_or_derated_mw": 52.0,
       "day_peak_mw": 52.0,
-      "evening_peak_mw": 30.0
+      "evening_peak_mw": 20.0
     },
     {
       "serial": 10,
@@ -626,7 +626,7 @@
       "plant_name": "Fenchuganj CCPP-1 (Gas)",
       "installed_or_derated_mw": 97.0,
       "day_peak_mw": 70.0,
-      "evening_peak_mw": 40.0
+      "evening_peak_mw": 0.0
     },
     {
       "serial": 2,
@@ -654,7 +654,7 @@
       "plant_name": "Shajibazar GT Unit-8, 9",
       "installed_or_derated_mw": 70.0,
       "day_peak_mw": 66.0,
-      "evening_peak_mw": 138.0
+      "evening_peak_mw": 0.0
     },
     {
       "serial": 6,
@@ -668,7 +668,7 @@
       "plant_name": "Sylhet 225MW CCPP",
       "installed_or_derated_mw": 231.0,
       "day_peak_mw": 231.0,
-      "evening_peak_mw": 20.0
+      "evening_peak_mw": 0.0
     },
     {
       "serial": 8,
@@ -738,14 +738,14 @@
       "plant_name": "Bherama 410 MW CCPP",
       "installed_or_derated_mw": 410.0,
       "day_peak_mw": 410.0,
-      "evening_peak_mw": 410.0
+      "evening_peak_mw": 0.0
     },
     {
       "serial": 3,
       "plant_name": "Faridpur 50 MW Peaking PP",
       "installed_or_derated_mw": 54.0,
       "day_peak_mw": 54.0,
-      "evening_peak_mw": 33.0
+      "evening_peak_mw": 32.0
     },
     {
       "serial": 4,
@@ -871,7 +871,7 @@
       "plant_name": "Bhola 220 MW CCPP (Nutan Biddut BD Ltd)",
       "installed_or_derated_mw": 220.0,
       "day_peak_mw": 220.0,
-      "evening_peak_mw": 0.0
+      "evening_peak_mw": 220.0
     },
     {
       "serial": 9,
@@ -899,7 +899,7 @@
       "plant_name": "Baghabari 50 MWPP Peaking",
       "installed_or_derated_mw": 52.0,
       "day_peak_mw": 52.0,
-      "evening_peak_mw": 0.0
+      "evening_peak_mw": 40.0
     },
     {
       "serial": 4,
