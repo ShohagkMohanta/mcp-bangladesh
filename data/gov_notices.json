@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 06:05:34 UTC",
+  "updated_at": "2026-11-22 16:07:15 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -118,6 +118,13 @@
     {
       "agency_code": "MOF",
       "agency_name": "Ministry of Finance",
+      "title": "জনাব মোঃ রায়হানুল ইসলাম, ব্যক্তিগত কর্মকর্তা (সাময়িক বরখাস্তকৃত), অর্থ বিভাগ-কে \"বাধ্যতামূলক অবসর প্রদান\" এর গুরুদন্ড প্রদান।",
+      "published_date": "22-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/8fe313ef-08bb-4c10-9337-0ec0122759a3.pdf"
+    },
+    {
+      "agency_code": "MOF",
+      "agency_name": "Ministry of Finance",
       "title": "CALL FOR PAPERS (IPF Journal of Economics and Finance)",
       "published_date": "18-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/dd59db22-6d84-4d20-83de-ad45b0af5ece.pdf"
@@ -163,13 +170,6 @@
       "title": "Introduction to Budget Management (IBM) কোর্সের ৬০ ও ৬১ তম ব্যাচের প্রশিক্ষণে অংশগ্রহণের জন্য প্রশিক্ষণার্থী মনোনয়ন।",
       "published_date": "11-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/94e05b3a-3c67-4da5-b3d8-ba68e73ece9c.pdf"
-    },
-    {
-      "agency_code": "MOF",
-      "agency_name": "Ministry of Finance",
-      "title": "বাংলাদেশ সরকারি কর্ম কমিশন কর্তৃক \"অডিটর\" ও \"এসএএস\" পদে সাময়িকভাবে মনোনীত প্রার্থীদের আবেদনপত্রের সাথে দাখিলকৃত সনদপত্র ও অন্যান্য কাগজপত্রাদির মূলকপিসহ উপস্থিত থাকা সংক্রান্ত।",
-      "published_date": "09-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/856b2a18-46e9-407b-8a7c-1f2137112846.pdf"
     },
     {
       "agency_code": "BPSC",
@@ -230,6 +230,13 @@
     {
       "agency_code": "PLANDIV",
       "agency_name": "Planning Division",
+      "title": "পরিকল্পনা বিভাগ ও পরিকল্পনা কমিশনের সকল কর্মকর্তা/ কর্মচারীদের ডিজিটাল হাজিরা আবশ্যিকভাবে শতভাগ নিশ্চিতকরণ প্রসঙ্গে (৬১)",
+      "published_date": "22-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/a693a664-36e4-40aa-af3e-da8277d03b43.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
       "title": "পরিকল্পনা বিভাগের লাইব্রেরীয়ান এর ফিডার পদ ক্যাটালগার পদে কর্মরত কর্মচারীগণের খসড়া জ্যেষ্ঠতার তালিকা চূড়ান্তকরণ (৭০১)",
       "published_date": "19-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/595bb194-d694-48dc-a202-c3c80d5cc355.pdf"
@@ -275,13 +282,6 @@
       "title": "এসপিইসি সভার নোটিশ - শিল্প ও শক্তি বিভাগ (১৮)",
       "published_date": "16-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/ddf0a197-04ca-4a49-9c6c-2e29e0af5b86.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "আন্তঃমন্ত্রণালয় প্রোগ্রামিং কমিটির সভার নোটিশ (১৬২)",
-      "published_date": "16-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/0422dca3-8b6b-476f-9e8c-4c15c1463b94.pdf"
     },
     {
       "agency_code": "DPE",

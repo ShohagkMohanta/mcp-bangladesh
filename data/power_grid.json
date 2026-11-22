@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-22 06:05:53 UTC",
+  "updated_at": "2026-11-22 16:07:26 UTC",
   "source": "Bangladesh Power Development Board (BPDB)",
   "sampled_plants_count": 191,
   "sampled_day_peak_mw": 29105.0,
-  "sampled_evening_peak_mw": 24715.9,
+  "sampled_evening_peak_mw": 25162.9,
   "plants": [
     {
       "serial": 1,
@@ -297,7 +297,7 @@
       "plant_name": "Teknaf 20 MW PP (Solartech)",
       "installed_or_derated_mw": 20.0,
       "day_peak_mw": 20.0,
-      "evening_peak_mw": 19.0
+      "evening_peak_mw": 20.0
     },
     {
       "serial": 6,
@@ -486,7 +486,7 @@
       "plant_name": "Titas 50 MW PP (Dautkandi)",
       "installed_or_derated_mw": 52.0,
       "day_peak_mw": 52.0,
-      "evening_peak_mw": 20.0
+      "evening_peak_mw": 24.0
     },
     {
       "serial": 10,
@@ -626,7 +626,7 @@
       "plant_name": "Fenchuganj CCPP-1 (Gas)",
       "installed_or_derated_mw": 97.0,
       "day_peak_mw": 70.0,
-      "evening_peak_mw": 0.0
+      "evening_peak_mw": 40.0
     },
     {
       "serial": 2,
@@ -654,7 +654,7 @@
       "plant_name": "Shajibazar GT Unit-8, 9",
       "installed_or_derated_mw": 70.0,
       "day_peak_mw": 66.0,
-      "evening_peak_mw": 0.0
+      "evening_peak_mw": 95.0
     },
     {
       "serial": 6,
@@ -738,7 +738,7 @@
       "plant_name": "Bherama 410 MW CCPP",
       "installed_or_derated_mw": 410.0,
       "day_peak_mw": 410.0,
-      "evening_peak_mw": 0.0
+      "evening_peak_mw": 410.0
     },
     {
       "serial": 3,
@@ -836,7 +836,7 @@
       "plant_name": "Bhola 225 MW CCPP",
       "installed_or_derated_mw": 194.0,
       "day_peak_mw": 194.0,
-      "evening_peak_mw": 110.0
+      "evening_peak_mw": 50.0
     },
     {
       "serial": 4,
@@ -899,7 +899,7 @@
       "plant_name": "Baghabari 50 MWPP Peaking",
       "installed_or_derated_mw": 52.0,
       "day_peak_mw": 52.0,
-      "evening_peak_mw": 40.0
+      "evening_peak_mw": 32.0
     },
     {
       "serial": 4,
@@ -927,7 +927,7 @@
       "plant_name": "Santahar 50 MW PP Peaking",
       "installed_or_derated_mw": 50.0,
       "day_peak_mw": 50.0,
-      "evening_peak_mw": 34.0
+      "evening_peak_mw": 0.0
     },
     {
       "serial": 8,
@@ -997,7 +997,7 @@
       "plant_name": "Sirajgonj 6.55 MW Solar Power Plant",
       "installed_or_derated_mw": 6.0,
       "day_peak_mw": 6.0,
-      "evening_peak_mw": 6.0
+      "evening_peak_mw": 5.0
     },
     {
       "serial": 18,
