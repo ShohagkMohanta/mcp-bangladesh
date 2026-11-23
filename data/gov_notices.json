@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 06:58:19 UTC",
+  "updated_at": "2026-11-23 20:00:49 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -118,6 +118,13 @@
     {
       "agency_code": "MOF",
       "agency_name": "Ministry of Finance",
+      "title": "জাতীয় বেতনস্কেল, ২০২৬ এর ৯ম গ্রেডে (৯ম গ্রেড, ৪৪০০০-১০৫৯০০) উচ্চতর গ্রেড প্রদান সংক্রান্ত প্রজ্ঞাপন।",
+      "published_date": "23-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/20724907-c232-432f-8a28-2aadaf16eda2.pdf"
+    },
+    {
+      "agency_code": "MOF",
+      "agency_name": "Ministry of Finance",
       "title": "বাসা বরাদ্দের নোটিশ।",
       "published_date": "23-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/7eb2fa08-a869-495c-af8c-adacfa665b1e.pdf"
@@ -163,13 +170,6 @@
       "title": "চাকরি (বেতন ও ভাতাদি) আদেশ,২০২৬ অনুযায়ী শ্রান্তি ও বিনোদন ভাতা প্রাপ্যতার বিষয়ে স্পষ্টীকরণ।",
       "published_date": "12-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/f043aafc-c32a-4a82-b5ad-d2ce6688a8ca.pdf"
-    },
-    {
-      "agency_code": "MOF",
-      "agency_name": "Ministry of Finance",
-      "title": "চাকরি (বেতন ও ভাতাদি) আদেশ,২০২৬ সংশোধন সংক্রান্ত।",
-      "published_date": "12-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/2c507f89-a35a-49b7-b657-66becb0354e0.pdf"
     },
     {
       "agency_code": "BPSC",
@@ -230,6 +230,13 @@
     {
       "agency_code": "PLANDIV",
       "agency_name": "Planning Division",
+      "title": "“বিসিক খাদ্য প্রক্রিয়াজাতকরণ শিল্পনগরী, ঠাকুরগাঁও (১ম সংশোধিত)” প্রকল্পের প্রস্তাবিত ২য় সংশোধিত আরডিপিপি’র ওপর অনুষ্ঠিত প্রকল্প মূল্যায়ন কমিটির (পিইসি) সভার কার্যবিবরণী (৩৭৩)",
+      "published_date": "23-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/b6b0d6ce-a353-4a4c-bf00-ce206595d720.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
       "title": "বাজেট ব্যবস্থাপনা কমিটির সভার নোটিশ (১৬৭)",
       "published_date": "23-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/a9660c8e-e05e-415b-91b0-e71f50fba42c.pdf"
@@ -275,13 +282,6 @@
       "title": "পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (১৯)",
       "published_date": "17-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/81d9fe57-80ee-46e4-b3f4-cd5763f1d0dd.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "দক্ষতা নবায়ন প্রশিক্ষণ কোর্সের ৪র্থ ব্যাচে কর্মকর্তা/কর্মচারী মনোনয়ন (৩১৫)",
-      "published_date": "17-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/932a53ba-b6c7-4c07-afed-5b5e9fdce4f4.pdf"
     },
     {
       "agency_code": "DPE",
