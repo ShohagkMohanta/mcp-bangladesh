@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 05:49:48 UTC",
+  "updated_at": "2026-11-24 17:22:37 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -118,6 +118,13 @@
     {
       "agency_code": "MOF",
       "agency_name": "Ministry of Finance",
+      "title": "পিএসসির মাধ্যমে 'প্রোগ্রামার' পদে সাময়িকভাবে মনোনীত ০৫ জন কর্মকর্তা ২৬/১১/২০২৬ তারিখে অর্থ বিভাগে তাদের আবেদনের সাথে দাখিলকৃত সংশ্লিষ্ট কাগজ-পত্রাদির মূলকপিসহ উপস্থিত থাকা সংক্রান্ত।",
+      "published_date": "26/11/2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/fa1c207c-9e93-494d-b134-bdec4b10ee1c.pdf"
+    },
+    {
+      "agency_code": "MOF",
+      "agency_name": "Ministry of Finance",
       "title": "জাতীয় বেতনস্কেল, ২০২৬ এর ৯ম গ্রেডে (৯ম গ্রেড, ৪৪০০০-১০৫৯০০) উচ্চতর গ্রেড প্রদান সংক্রান্ত প্রজ্ঞাপন।",
       "published_date": "23-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/20724907-c232-432f-8a28-2aadaf16eda2.pdf"
@@ -163,13 +170,6 @@
       "title": "২০২৬-২৭ অর্থবছরের সংশোধিত বাজেট প্রাক্কলন (পরিচালন ও উন্নয়ন) প্রণয়ন।",
       "published_date": "12-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/5449592f-670f-4684-89a0-e7ce92cb6ac8.pdf"
-    },
-    {
-      "agency_code": "MOF",
-      "agency_name": "Ministry of Finance",
-      "title": "চাকরি (বেতন ও ভাতাদি) আদেশ,২০২৬ অনুযায়ী শ্রান্তি ও বিনোদন ভাতা প্রাপ্যতার বিষয়ে স্পষ্টীকরণ।",
-      "published_date": "12-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/f043aafc-c32a-4a82-b5ad-d2ce6688a8ca.pdf"
     },
     {
       "agency_code": "BPSC",
