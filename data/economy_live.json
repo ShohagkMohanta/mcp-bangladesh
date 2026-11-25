@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 02:08:22 UTC",
+  "updated_at": "2026-11-25 14:04:47 UTC",
   "sources": [
     "Bangladesh Bank (bb.org.bd)",
     "Trading Corporation of Bangladesh (tcb.gov.bd)"
@@ -49,6 +49,11 @@
   ],
   "tcb_daily_price_reports": [
     {
+      "date": "25-11-2026",
+      "title": "Dhaka Daily Retail Market Price Bulletin (TCB)",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tcb/2026/10/32836bf5-ccb3-4306-8147-444cf6bcfae5.xlsx"
+    },
+    {
       "date": "24-11-2026",
       "title": "Dhaka Daily Retail Market Price Bulletin (TCB)",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tcb/2026/10/0b058b56-c1a4-4ffe-a224-492a70c89a91.xlsx"
@@ -67,11 +72,6 @@
       "date": "21-11-2026",
       "title": "Dhaka Daily Retail Market Price Bulletin (TCB)",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tcb/2026/10/cb4275bb-7d42-4d70-84c2-3592e6dde8fb.xlsx"
-    },
-    {
-      "date": "20-11-2026",
-      "title": "Dhaka Daily Retail Market Price Bulletin (TCB)",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tcb/2026/10/a09b6be3-f380-4e22-80cb-2480a942d588.xlsx"
     }
   ]
 }

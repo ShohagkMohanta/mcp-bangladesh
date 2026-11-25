@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 02:08:03 UTC",
+  "updated_at": "2026-11-25 14:04:30 UTC",
   "source": "DGHS HEOC & Control Room",
   "dengue": {
     "report_date": "24/11/26",
@@ -586,8 +586,8 @@
     ]
   },
   "measles": {
-    "report_date": "24/11/26",
-    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dghs/2026/10/81cc1772-ca34-4bd8-8a82-650b046c254f.pdf",
+    "report_date": "15/11/26",
+    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dghs/2026/10/a3ec4394-f06b-4e98-9fc7-4d0d0f336604.pdf",
     "divisions": [
       {
         "division": "Dhaka",
