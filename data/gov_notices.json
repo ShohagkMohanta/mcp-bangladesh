@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 10:40:51 UTC",
+  "updated_at": "2026-11-26 21:15:44 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -62,6 +62,41 @@
     {
       "agency_code": "SHED",
       "agency_name": "Ministry of Education (SHED)",
+      "title": "ব্যানবেইস-এর পরিসংখ্যান কর্মকর্তা পদে নিয়োগ প্রদান",
+      "published_date": "26-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/1771b0ca-9b4a-45e6-a378-c21180b804b8.pdf"
+    },
+    {
+      "agency_code": "SHED",
+      "agency_name": "Ministry of Education (SHED)",
+      "title": "ব্যানবেইস-এর এ্যাসিস্টেন্ট মেইনটেন্যান্স ইঞ্জিনিয়ার পদে নিয়োগ প্রদান",
+      "published_date": "26-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/b9a0226c-0bb0-4b79-acee-7f94d16abf91.pdf"
+    },
+    {
+      "agency_code": "SHED",
+      "agency_name": "Ministry of Education (SHED)",
+      "title": "ব্যানবেইস-এর হিসাবরক্ষণ কর্মকর্তা পদে নিয়োগ প্রদান",
+      "published_date": "26-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/7dcad324-96eb-442d-aedc-90b3282f08dd.pdf"
+    },
+    {
+      "agency_code": "SHED",
+      "agency_name": "Ministry of Education (SHED)",
+      "title": "ব্যানবেইস-এর সহকারী প্রোগ্রামার পদে নিয়োগ প্রদান",
+      "published_date": "26-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/0d4868fc-e78e-4ff9-afe0-e10de48a3be8.pdf"
+    },
+    {
+      "agency_code": "SHED",
+      "agency_name": "Ministry of Education (SHED)",
+      "title": "সরকারি মাধ্যমিক বিদ্যালয়ের ৩৪৮ জন সহকারী শিক্ষককে সিনিয়র শিক্ষক পদে পদোন্নতি প্রদানপূর্বক পদায়ন",
+      "published_date": "25-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/c71d3b70-95af-47a5-9647-ffd1b729d317.pdf"
+    },
+    {
+      "agency_code": "SHED",
+      "agency_name": "Ministry of Education (SHED)",
       "title": "সরকারি মাধ্যমিক বিদ্যালয়ে শিক্ষার্থী ভর্তির নীতিমালা-২০২৭ (সংশোধিত)",
       "published_date": "12-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/bbc3030c-9c12-41fd-b636-d5e0222585dd.pdf"
@@ -79,41 +114,6 @@
       "title": "৪৫ তম সাধারণ শিক্ষা ক্যাডারের প্রভাষকগণের যোগদানপত্র গ্রহণ",
       "published_date": "05-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/c9dfde60-8b20-426e-b3f7-f1227afd1012.pdf"
-    },
-    {
-      "agency_code": "SHED",
-      "agency_name": "Ministry of Education (SHED)",
-      "title": "পাকিস্তানের বিভিন্ন প্রতিষ্ঠানে বাংলাদেশি শিক্ষার্থীদের জন্য বিভিন্ন প্রোগ্রামে ভর্তি সংক্রান্ত",
-      "published_date": "01-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/69affeff-018b-4bc4-b77b-2f24105e8652.pdf"
-    },
-    {
-      "agency_code": "SHED",
-      "agency_name": "Ministry of Education (SHED)",
-      "title": "প্রাস্তাবিত লক্মীপুর বিশ্ববিদ্যালয় আইন, ২০২৬ এর খসড়ার উপর মতামত প্রদান",
-      "published_date": "28-10-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/10/c90f75be-1d82-427c-8dd5-ba88bfbb639d.pdf"
-    },
-    {
-      "agency_code": "SHED",
-      "agency_name": "Ministry of Education (SHED)",
-      "title": "৪৫ তম বি.সি.এস. (সাধারণ শিক্ষা) ক্যাডার কর্মকর্তাদের নিয়োগ প্রদান (সংশোধিত)",
-      "published_date": "27-10-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/9/ae1bf864-2982-471e-8484-a8efe96073c9.pdf"
-    },
-    {
-      "agency_code": "SHED",
-      "agency_name": "Ministry of Education (SHED)",
-      "title": "৪৯তম বিসিএস (বিশেষ) এর প্রভাষক পদে পদায়ন",
-      "published_date": "19-10-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/9/bcd13118-fd05-48e1-8c0c-54b0c4e22f1d.pdf"
-    },
-    {
-      "agency_code": "SHED",
-      "agency_name": "Ministry of Education (SHED)",
-      "title": "সরকারি মাধ্যমিক বিদ্যালয়ে শিক্ষার্থী ভর্তির নীতিমালা-২০২৭",
-      "published_date": "13-10-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-shed/2026/9/13ba5bbe-c718-4d9f-8a52-802039335676.pdf"
     },
     {
       "agency_code": "MOF",
