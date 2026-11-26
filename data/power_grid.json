@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 00:06:45 UTC",
+  "updated_at": "2026-11-26 10:40:59 UTC",
   "source": "Bangladesh Power Development Board (BPDB)",
   "sampled_plants_count": 192,
   "sampled_day_peak_mw": 30305.0,
@@ -1029,7 +1029,7 @@
     },
     {
       "serial": 22,
-      "plant_name": "Rooppur Nuclear Power Plant",
+      "plant_name": "Rooppur Nuclear Power Plan",
       "installed_or_derated_mw": 0.0,
       "day_peak_mw": 1200.0,
       "evening_peak_mw": 1200.0

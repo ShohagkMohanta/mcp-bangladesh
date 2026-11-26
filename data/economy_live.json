@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-26 00:06:42 UTC",
+  "updated_at": "2026-11-26 10:40:56 UTC",
   "sources": [
     "Bangladesh Bank (bb.org.bd)",
     "Trading Corporation of Bangladesh (tcb.gov.bd)"
   ],
   "usd_bdt_reference_rates": [
+    {
+      "date": "26 November, 2026",
+      "rate_11am_bdt": "124.3319",
+      "rate_5pm_bdt": ""
+    },
+    {
+      "date": "25 November, 2026",
+      "rate_11am_bdt": "124.6763",
+      "rate_5pm_bdt": "125.0346"
+    },
     {
       "date": "24 November, 2026",
       "rate_11am_bdt": "124.8264",
@@ -19,16 +29,6 @@
       "date": "22 November, 2026",
       "rate_11am_bdt": "124.8561",
       "rate_5pm_bdt": "124.6104"
-    },
-    {
-      "date": "19 November, 2026",
-      "rate_11am_bdt": "124.7007",
-      "rate_5pm_bdt": "124.6598"
-    },
-    {
-      "date": "18 November, 2026",
-      "rate_11am_bdt": "124.9831",
-      "rate_5pm_bdt": "124.8171"
     }
   ],
   "cpi_inflation": [
@@ -49,6 +49,11 @@
   ],
   "tcb_daily_price_reports": [
     {
+      "date": "26-11-2026",
+      "title": "Dhaka Daily Retail Market Price Bulletin (TCB)",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tcb/2026/10/956b58f1-e1a2-408f-8f2a-8cc3de6605b4.xlsx"
+    },
+    {
       "date": "25-11-2026",
       "title": "Dhaka Daily Retail Market Price Bulletin (TCB)",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tcb/2026/10/32836bf5-ccb3-4306-8147-444cf6bcfae5.xlsx"
@@ -67,11 +72,6 @@
       "date": "22-11-2026",
       "title": "Dhaka Daily Retail Market Price Bulletin (TCB)",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tcb/2026/10/7ff12038-772b-4929-98c8-ca1b466c0cd8.xlsx"
-    },
-    {
-      "date": "21-11-2026",
-      "title": "Dhaka Daily Retail Market Price Bulletin (TCB)",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tcb/2026/10/cb4275bb-7d42-4d70-84c2-3592e6dde8fb.xlsx"
     }
   ]
 }

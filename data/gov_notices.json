@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 00:06:36 UTC",
+  "updated_at": "2026-11-26 10:40:51 UTC",
   "total_agencies": 6,
   "total_notices": 48,
   "notices": [
@@ -118,6 +118,20 @@
     {
       "agency_code": "MOF",
       "agency_name": "Ministry of Finance",
+      "title": "Introduction to Budget Management (IBM) কোর্সের ৬০তম ব্যাচের প্রশিক্ষণে অংশগ্রহণের জন্য প্রশিক্ষণার্থী মনোনয়ন।",
+      "published_date": "26-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/2bbb42b0-3430-4060-bc96-78c5d8118446.pdf"
+    },
+    {
+      "agency_code": "MOF",
+      "agency_name": "Ministry of Finance",
+      "title": "বিসিএস (নিরীক্ষা ও হিসাব) ক্যাডারের ০২ (দুই) জন কর্মকর্তার চাকরি ‘সহকারী মহা-হিসাবরক্ষক’ পদে যোগদানের তারিখ হতে স্থায়ীকরণ সংক্রান্ত।",
+      "published_date": "26-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/8a30d311-0efe-4d80-a79a-cb3ce3917432.pdf"
+    },
+    {
+      "agency_code": "MOF",
+      "agency_name": "Ministry of Finance",
       "title": "আউটসোর্সিং প্রক্রিয়ায় সেবা গ্রহণ নীতিমালা, ২০২৫ এর সংশোধনীর পরিপ্রেক্ষিতে কতিপয় বিষয়ে স্পষ্টীকরণ।",
       "published_date": "25-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/7612cc84-60db-439d-9c2b-f0249ca15e21.pdf"
@@ -156,20 +170,6 @@
       "title": "জনাব মোঃ রায়হানুল ইসলাম, ব্যক্তিগত কর্মকর্তা (সাময়িক বরখাস্তকৃত), অর্থ বিভাগ-কে \"বাধ্যতামূলক অবসর প্রদান\" এর গুরুদন্ড প্রদান।",
       "published_date": "22-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/8fe313ef-08bb-4c10-9337-0ec0122759a3.pdf"
-    },
-    {
-      "agency_code": "MOF",
-      "agency_name": "Ministry of Finance",
-      "title": "CALL FOR PAPERS (IPF Journal of Economics and Finance)",
-      "published_date": "18-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/dd59db22-6d84-4d20-83de-ad45b0af5ece.pdf"
-    },
-    {
-      "agency_code": "MOF",
-      "agency_name": "Ministry of Finance",
-      "title": "বাসা বরাদ্দের নোটিশ।",
-      "published_date": "16-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-mof/2026/10/2646cdf3-cab4-437b-b5cc-6e456788b26b.pdf"
     },
     {
       "agency_code": "BPSC",
@@ -230,6 +230,48 @@
     {
       "agency_code": "PLANDIV",
       "agency_name": "Planning Division",
+      "title": "সভার নোটিশ (৩৭৭)",
+      "published_date": "26-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/b04c7f5e-22cd-4cd6-a4c0-b6d171191ec3.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "২য় পিইসি সভার বিজ্ঞপ্তি - শিল্প ও শক্তি বিভাগ (১৪২)",
+      "published_date": "26-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/ba1cad7e-daf7-4005-ba5a-248ad61de007.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "২০২৬-২৭ অর্থবছরের এডিপি পর্যালোচনা সভার নোটিশ (৪৬৪)",
+      "published_date": "26-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/32371660-a471-4d7f-bfdc-b45e977f36a0.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "আন্তঃমন্ত্রণালয় প্রোগ্রামিং কমিটির সভার তারিখ পরিবর্তন (১৭৩)",
+      "published_date": "26-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/6993044b-1599-420e-9230-c3582c2e4469.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "পরিকল্পনা বিভাগের মাসিক সমন্বয় সভার নোটিশ (৩৭৬)",
+      "published_date": "26-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/ab54b370-cc68-4a91-a122-6f1426a81300.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
+      "title": "সভার নোটিশ - কৃষি, পানি সম্পদ ও পল্লী প্রতিষ্ঠান বিভাগ (২৮৪)",
+      "published_date": "26-11-2026",
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/5122e3ab-ab3f-4a78-b7c8-df0651788422.pdf"
+    },
+    {
+      "agency_code": "PLANDIV",
+      "agency_name": "Planning Division",
       "title": "সমন্বয় সভার বিজ্ঞপ্তি - সাধারণ অর্থনীতি বিভাগ (৩১)",
       "published_date": "25-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/48161d85-88f1-42b3-8c41-02a2e6af2f5c.pdf"
@@ -240,48 +282,6 @@
       "title": "“বিসিক খাদ্য প্রক্রিয়াজাতকরণ শিল্পনগরী, ঠাকুরগাঁও (১ম সংশোধিত)” প্রকল্পের প্রস্তাবিত ২য় সংশোধিত আরডিপিপি’র ওপর অনুষ্ঠিত প্রকল্প মূল্যায়ন কমিটির (পিইসি) সভার কার্যবিবরণী (৩৭৩)",
       "published_date": "23-11-2026",
       "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/b6b0d6ce-a353-4a4c-bf00-ce206595d720.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "বাজেট ব্যবস্থাপনা কমিটির সভার নোটিশ (১৬৭)",
-      "published_date": "23-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/a9660c8e-e05e-415b-91b0-e71f50fba42c.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "পরিকল্পনা বিভাগের রাজস্বখাতভুক্ত ১১-২০ গ্রেডের পদে নিয়োগ/পদোন্নতি/টাইমস্কেল/সিলেকশন গ্রেড প্রদানের জন্য পূর্বে জারিকৃত অফিস আদেশ বাতিল করে নিম্নরূপ বিভাগীয় নিয়োগ/পদোন্নতি/টাইমস্কেল/সিলেকশন গ্রেড প্রদান কমিটি পুনর্গঠন সংক",
-      "published_date": "23-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/52cc3c38-8b25-4649-b583-1b910765e29f.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "পরিকল্পনা বিভাগ ও পরিকল্পনা কমিশনের সকল কর্মকর্তা/ কর্মচারীদের ডিজিটাল হাজিরা আবশ্যিকভাবে শতভাগ নিশ্চিতকরণ প্রসঙ্গে (৬১)",
-      "published_date": "22-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/a693a664-36e4-40aa-af3e-da8277d03b43.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "পরিকল্পনা বিভাগের লাইব্রেরীয়ান এর ফিডার পদ ক্যাটালগার পদে কর্মরত কর্মচারীগণের খসড়া জ্যেষ্ঠতার তালিকা চূড়ান্তকরণ (৭০১)",
-      "published_date": "19-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/595bb194-d694-48dc-a202-c3c80d5cc355.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "পরিকল্পনা বিভাগ ও পরিকল্পনা কমিশনের সকল কর্মকর্তা/ কর্মচারীদের ডিজিটাল হাজিরা নিশ্চিতকরণ প্রসঙ্গে (৫৩)",
-      "published_date": "19-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/0fa40790-b797-4ad2-9ddd-a25288424070.pdf"
-    },
-    {
-      "agency_code": "PLANDIV",
-      "agency_name": "Planning Division",
-      "title": "২য় প্রকল্প মূল্যায়ন কমিটি (পিইসি) সভার নোটিশ - শিল্প ও শক্তি বিভাগ (১৮৯)",
-      "published_date": "19-11-2026",
-      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-plandiv/2026/10/2692a0e7-0a46-4d42-894d-70ec32d0f7e8.pdf"
     },
     {
       "agency_code": "DPE",
